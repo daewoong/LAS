@@ -1,0 +1,2906 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="yes" ?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http//www.w3.org/2001/XMLSchema#">]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:legislation="http://imc.ssu.ac.kr/2013/04/gensol/legislation#"
+xmlns:legislation2="http://imc.ssu.ac.kr/2013/04/gensol/legislation2#"
+xmlns:legislation3="http://imc.ssu.ac.kr/2013/04/gensol/legislation3#"
+xmlns:legislation4="http://imc.ssu.ac.kr/2013/04/gensol/legislation4#"
+xmlns:legislation5="http://imc.ssu.ac.kr/2013/04/gensol/legislation5#"
+xmlns:legislation6="http://imc.ssu.ac.kr/2013/04/gensol/legislation6#">
+
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융시장분석과장">
+	<legislation:분장_사항>금융시장 동향분석</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>제1호부터 제10호까지와 관련된 사항에 대한 조사·연구</legislation:분장_사항>
+	<legislation:분장_사항>한국은행와 업무협의에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>기획재정부와 업무협의에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>단기 금융시장의 제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>지급결제제도의 결제중개기관에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>지급결제제도의 지급결제수단에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>지급결제제도의 운영기준에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>자금중개회사에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>국제기구와 거시금융정책 협의</legislation:분장_사항>
+	<legislation:분장_사항>외국환업무 관련 기획재정부 등 관련 기관과의 협의</legislation:분장_사항>
+	<legislation:분장_사항>국제금융시장 동향 분석</legislation:분장_사항>
+	<legislation:분장_사항>외국환업무취급기관의 제재에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>외국환업무취급기관의 건전성 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융통계의 분석</legislation:분장_사항>
+	<legislation:분장_사항>금융통계의 작성</legislation:분장_사항>
+	<legislation:분장_사항>실물경제 동향 분석</legislation:분장_사항>
+	<legislation:분장_사항>금융시장 정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#심사분석실장">
+	<legislation:분장_사항>심사분석제공업무지침의 평가</legislation:분장_사항>
+	<legislation:분장_사항>심사분석제공업무지침의 분석</legislation:분장_사항>
+	<legislation:분장_사항>심사분석제공업무지침의 수립</legislation:분장_사항>
+	<legislation:분장_사항>심사분석제공업무의 조정</legislation:분장_사항>
+	<legislation:분장_사항>심사분석제공업무의 통할</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁범죄의 대처방안 배포</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁범죄의 대처방안 연구</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁범죄의 동향분석</legislation:분장_사항>
+	<legislation:분장_사항>심사분석기법의 지도</legislation:분장_사항>
+	<legislation:분장_사항>심사분석기법의 개발</legislation:분장_사항>
+	<legislation:분장_사항>심사분석기법의 연구</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보에 대한 전략적 심사분석</legislation:분장_사항>
+	<legislation:분장_사항>국내 특정금융거래정보의 심사분석</legislation:분장_사항>
+	<legislation:분장_사항>외국금융정보분석기구에 대한 정보제공</legislation:분장_사항>
+	<legislation:분장_사항>수사기관에 대한 정보제공</legislation:분장_사항>
+	<legislation:분장_사항>외국금융정보분석기구의 정보제공 요구의 배당</legislation:분장_사항>
+	<legislation:분장_사항>외국금융정보분석기구의 정보제공 요구의 접수</legislation:분장_사항>
+	<legislation:분장_사항>수사기관 정보제공 요구의 배당</legislation:분장_사항>
+	<legislation:분장_사항>수사기관 정보제공 요구의 접수</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보의 배당</legislation:분장_사항>
+	<legislation:분장_사항>금융기관에 대한 자료제공의 요청 등에 대한 지휘</legislation:분장_사항>
+	<legislation:분장_사항>심사분석업무의 종결처리</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제14조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001400</legislation:JO_NO>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#채권">
+	<legislation:기재사항>이자지급의 방법</legislation:기재사항>
+	<legislation:기재사항>공사의 명칭</legislation:기재사항>
+	<legislation:기재사항>권</legislation:기재사항>
+	<legislation:기재사항>채권번호</legislation:기재사항>
+	<legislation:기재사항>이자지급의 시기</legislation:기재사항>
+	<legislation:법명>금융기관부실자산 등의 효율적 처리 및 한국자산관리공사의 설립에 관한 법률 시행령</legislation:법명>
+	<legislation:조문>제30조</legislation:조문>
+	<legislation:LAW_ID>199711190001</legislation:LAW_ID>
+	<legislation:LAW_SID>0022</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>003000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#채권원부">
+	<legislation:기재사항>채권의 권종별 수</legislation:기재사항>
+	<legislation:기재사항>이자지급의 시기</legislation:기재사항>
+	<legislation:기재사항>이자지급의 방법</legislation:기재사항>
+	<legislation:기재사항>공사의 명칭</legislation:기재사항>
+	<legislation:기재사항>채권의 발행연월일</legislation:기재사항>
+	<legislation:기재사항>채권의 권종별 번호</legislation:기재사항>
+	<legislation:법명>금융기관부실자산 등의 효율적 처리 및 한국자산관리공사의 설립에 관한 법률 시행령</legislation:법명>
+	<legislation:조문>제31조</legislation:조문>
+	<legislation:LAW_ID>199711190001</legislation:LAW_ID>
+	<legislation:LAW_SID>0022</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>003100</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#기명식_채권">
+	
+	<legislation:기재사항>채권 소유자의 성명</legislation:기재사항>
+	<legislation:기재사항>채권의 취득연월일</legislation:기재사항>
+	<legislation:기재사항>채권소유자의 주소</legislation:기재사항>
+	<legislation:법명>금융기관부실자산 등의 효율적 처리 및 한국자산관리공사의 설립에 관한 법률 시행령</legislation:법명>
+	<legislation:조문>제31조</legislation:조문>
+	<legislation:LAW_ID>199711190001</legislation:LAW_ID>
+	<legislation:LAW_SID>0022</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>003100</legislation:JO_NO>
+	
+	<legislation:포함사항>채권 소유자의 주소</legislation:포함사항>
+	<legislation:포함사항>채권소유자의 성명</legislation:포함사항>
+	<legislation:포함사항>채권의 취득일</legislation:포함사항>
+	<legislation2:법명>금융산업의 구조개선에 관한 법률 시행령</legislation2:법명>
+	<legislation2:조문>제5조의17</legislation2:조문>
+	<legislation2:LAW_ID>199309140001</legislation2:LAW_ID>
+	<legislation2:LAW_SID>0018</legislation2:LAW_SID>
+	<legislation2:JJ_NO>000000000000000</legislation2:JJ_NO>
+	<legislation2:JO_NO>000517</legislation2:JO_NO>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융기관의업무위탁등에관한규정">
+	<legislation:목적>금융기관이 인가 관한 사항을 정함</legislation:목적>
+	<legislation:목적>금융기관이 등록 관한 사항을 정함</legislation:목적>
+	<legislation:목적>금융기관이 허가 관한 사항을 정함</legislation:목적>
+	<legislation:법명>금융기관의업무위탁등에관한규정</legislation:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>200001140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융기관">
+	<legislation:정의>금융감독원장이 정하는 자</legislation:정의>
+	<legislation:정의>신용협동조합 중앙회</legislation:정의>
+	<legislation:정의>신용협동조합</legislation:정의>
+	<legislation:정의>선물업자</legislation:정의>
+	<legislation:정의>증권회사</legislation:정의>
+	<legislation:정의>보험회사</legislation:정의>
+	<legislation:정의>여신전문금융회사</legislation:정의>
+	<legislation:정의>종합금융회사</legislation:정의>
+	<legislation:정의>상호저축은행 중앙회</legislation:정의>
+	<legislation:정의>상호저축은행</legislation:정의>
+	<legislation:정의>주택저당채권유동화회사</legislation:정의>
+	<legislation:정의>신탁회사</legislation:정의>
+	<legislation:정의>중소기업은행</legislation:정의>
+	<legislation:정의>수산업협동조합중앙회의 신용사업부문</legislation:정의>
+	<legislation:정의>농협협동조합중앙회의 신용사업부문</legislation:정의>
+	<legislation:법명>금융기관의업무위탁등에관한규정</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>200001140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+	
+	<legislation:정의>대통령령으로 정하는 기관</legislation:정의>
+	<legislation:정의>금융지주회사</legislation:정의>
+	<legislation:정의>종합금융회사</legislation:정의>
+	<legislation:정의>신탁업자</legislation:정의>
+	<legislation:정의>상호저축은행</legislation:정의>
+	<legislation:정의>보험회사</legislation:정의>
+	<legislation:정의>투자일임업자</legislation:정의>
+	<legislation:정의>투자자문업자</legislation:정의>
+	<legislation:정의>집합투자업자</legislation:정의>
+	<legislation:정의>투자중개업자</legislation:정의>
+	<legislation:정의>투자매매업자</legislation:정의>
+	<legislation:정의>중소기업은행</legislation:정의>
+	<legislation:정의>은행</legislation:정의>
+	<legislation2:법명>금융산업의 구조개선에 관한 법률</legislation2:법명>
+	<legislation2:조문>제2조</legislation2:조문>
+	<legislation2:LAW_ID>199103080001</legislation2:LAW_ID>
+	<legislation2:LAW_SID>0020</legislation2:LAW_SID>
+	<legislation2:JJ_NO>000010000000000</legislation2:JJ_NO>
+	<legislation2:JO_NO>000200</legislation2:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융정책국장">
+	<legislation:분장_사항>기업의 구조조정 관련 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>기업의 구조조정 관련 정책의 협의</legislation:분장_사항>
+	<legislation:분장_사항>금융지주회사제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융지주회사의 감독</legislation:분장_사항>
+	<legislation:분장_사항>금융지주회사의 인가</legislation:분장_사항>
+	<legislation:분장_사항>국고자금 운용계획의 협의</legislation:분장_사항>
+	<legislation:분장_사항>국고자금 운용계획의 조정</legislation:분장_사항>
+	<legislation:분장_사항>관련 제도의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>관련 제도의 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융제재 업무</legislation:분장_사항>
+	<legislation:분장_사항>금융검사 업무</legislation:분장_사항>
+	<legislation:분장_사항>금융감독 업무</legislation:분장_사항>
+	<legislation:분장_사항>관련 기관과의 정책 및 정보공유에 관한 협의</legislation:분장_사항>
+	<legislation:분장_사항>금융제도의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>금융제도의 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융정책</legislation:분장_사항>
+	<legislation:분장_사항>위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>위원회 내 다른 부서의 주관에 속하지 아니하는 사항</legislation:분장_사항>
+	<legislation:분장_사항>국내 금융기관의 해외 진출의 지원</legislation:분장_사항>
+	<legislation:분장_사항>외국 금융기관의 국내 진출</legislation:분장_사항>
+	<legislation:분장_사항>금융에 관한 국제 홍보업무의 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융에 관한 국제 홍보업무의 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융 전문인력의 양성</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지추진위원회의 운영</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지추진위원회의 설립</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책 지원기관 운영</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책 지원기관 설립</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 지원센터 운영</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 지원센터 설립</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책과 금융클러스터 추진에 관한 총괄</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책과 금융클러스터 추진에 관한 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책과 금융클러스터 추진에 관한 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지의 조성과 발전에 관한 기본계획의 시행</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지의 조성과 발전에 관한 기본계획의 수립</legislation:분장_사항>
+	<legislation:분장_사항>외국환거래 법규 위반자의 제재에 관한 업무</legislation:분장_사항>
+	<legislation:분장_사항>금융기관 해외 직접투자의 신고 수리에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>외국 금융당국·감독기구 및 국제 금융감독기구와의 협력 업무</legislation:분장_사항>
+	<legislation:분장_사항>금융서비스의 양자·다자간 협상 및 대외협력업무</legislation:분장_사항>
+	<legislation:분장_사항>금융산업의 국제경쟁력 강화에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융의 국제화</legislation:분장_사항>
+	<legislation:분장_사항>금융의 개방</legislation:분장_사항>
+	<legislation:분장_사항>예금보험공사의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>예금자 보호에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>한국자산관리공사의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융기관의 부실자산 정리에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융회사 설립에 관한 허가의 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융회사 설립에 관한 허가의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>금융회사 설립에 관한 인가의 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융회사 설립에 관한 인가의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>금융구조조정 등 금융산업 구조개선에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>중소기업금융 등 기업자금 사정의 분석</legislation:분장_사항>
+	<legislation:분장_사항>중소기업금융 등 기업자금 사정의 점검</legislation:분장_사항>
+	<legislation:분장_사항>중소기업금융 등 기업자금 정책의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>중소기업금융 등 기업자금 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>중소기업금융 등 기업자금 정책의 기획</legislation:분장_사항>
+	<legislation:분장_사항>한국수출입은행의 경영건전성 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국주택금융공사의 업무에 대한 감독</legislation:분장_사항>
+	<legislation:분장_사항>한국정책금융공사에 대한 감독</legislation:분장_사항>
+	<legislation:분장_사항>중소기업은행의 업무에 대한 감독</legislation:분장_사항>
+	<legislation:분장_사항>한국산업은행의 업무에 대한 감독</legislation:분장_사항>
+	<legislation:분장_사항>국책은행 민영화 등 관련 정책에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>단기 금융시장 제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>자금중개회사 제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>지급결제제도의 결제중개기관에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>지급결제제도의 지급결제수단에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>지급결제제도의 운영기준에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>국제기구와의 거시금융정책 협의</legislation:분장_사항>
+	<legislation:분장_사항>외국환업무 취급기관의 건전성 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>부동산금융의 동향 분석 및 관련 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융시장의 동향 분석 및 관련 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융회사의 경영지배구조 제도의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>금융회사의 경영지배구조 제도의 기획</legislation:분장_사항>
+	<legislation:분장_사항>농림수산업자신용보증기금의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>기술신용보증기금의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용보증기금의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>주택금융신용보증기금의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신성장산업 분야에 대한 금융지원 업무</legislation:분장_사항>
+	<legislation:분장_사항>녹색산업 분야에 대한 금융지원 업무</legislation:분장_사항>
+	<legislation:분장_사항>신용보증제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>주택금융에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>녹색금융에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>기업 구조조정 지원업무에 관한 사항</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제</legislation:법명>
+	<legislation:조문>제12조</legislation:조문>
+	<legislation:LAW_ID>200902290001</legislation:LAW_ID>
+	<legislation:LAW_SID>0011</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금관리_특별법">
+	<legislation:목적>공적자금의 조성</legislation:목적>
+	<legislation:목적>국민부담 최소화</legislation:목적>
+	<legislation:목적>공적자금의 효율적 사용</legislation:목적>
+	<legislation:목적>공적자금의 관리</legislation:목적>
+	<legislation:목적>공적자금의 운용</legislation:목적>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금">
+	<legislation:정의>구조조정에 지원 되는 자금</legislation:정의>
+	<legislation:재원>금융안정기금</legislation:재원>
+	<legislation:재원>공공차관</legislation:재원>
+	<legislation:재원>한국은행이 금융회사등에 출자한 자금</legislation:재원>
+	<legislation:재원>국유재산</legislation:재원>
+	<legislation:재원>공공자금관리기금</legislation:재원>
+	<legislation:재원>부실채권정리기금 및 구조조정기금</legislation:재원>
+	<legislation:재원>정부가 예금보험공사에 양여한 국유재산</legislation:재원>
+	<legislation:재원>예금보험기금채권으로 조성된 자금</legislation:재원>
+	<legislation:재원>정부의 출연금</legislation:재원>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+	
+	<legislation:지원기준>자체 구조조정 노력을 전제로 지원</legislation:지원기준>
+	<legislation:지원기준>2회 이상 나누어 지원</legislation:지원기준>
+	<legislation:지원기준>공평한 손실 분담을 전제로 공적자금을 지원</legislation:지원기준>
+	<legislation2:법명>공적자금관리 특별법</legislation2:법명>
+	<legislation2:조문>제14조</legislation2:조문>
+	<legislation2:LAW_ID>200012200002</legislation2:LAW_ID>
+	<legislation2:LAW_SID>0008</legislation2:LAW_SID>
+	<legislation2:JJ_NO>000030000000000</legislation2:JJ_NO>
+	<legislation2:JO_NO>001400</legislation2:JO_NO>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융회사등">
+	<legislation:정의>금융기관 </legislation:정의>
+	<legislation:정의>금융회사</legislation:정의>
+	<legislation:정의>부보금융기관</legislation:정의>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+	
+	<legislation:정의>대통령령으로 정하는 기관</legislation:정의>
+	<legislation:정의>체신관서</legislation:정의>
+	<legislation:정의>보험회사</legislation:정의>
+	<legislation:정의>새마을금고 중앙회</legislation:정의>
+	<legislation:정의>새마을금고</legislation:정의>
+	<legislation:정의>신용협동조합중앙회</legislation:정의>
+	<legislation:정의>신용협동조합</legislation:정의>
+	<legislation:정의>수산업협동조합 중앙회</legislation:정의>
+	<legislation:정의>수산업협동조합조합</legislation:정의>
+	<legislation:정의>농협은행</legislation:정의>
+	<legislation:정의>농업협동조합중앙회</legislation:정의>
+	<legislation:정의>농업협동조합</legislation:정의>
+	<legislation:정의>상호저축은행중앙회</legislation:정의>
+	<legislation:정의>상호저축은행</legislation:정의>
+	<legislation:정의>명의개서대행회사</legislation:정의>
+	<legislation:정의>종합금융회사</legislation:정의>
+	<legislation:정의>증권금융회사</legislation:정의>
+	<legislation:정의>신탁업자</legislation:정의>
+	<legislation:정의>집합투자업자</legislation:정의>
+	<legislation:정의>투자중개업자</legislation:정의>
+	<legislation:정의>투자매매업자</legislation:정의>
+	<legislation:정의>한국은행</legislation:정의>
+	<legislation:정의>한국수출입은행</legislation:정의>
+	<legislation:정의>한국산업은행</legislation:정의>
+	<legislation:정의>중소기업은행</legislation:정의>
+	<legislation:정의>은행</legislation:정의>
+	
+	<legislation2:법명>금융실명거래 및 비밀보장에 관한 법률</legislation2:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>199712310002</legislation:LAW_ID>
+	<legislation:LAW_SID>0015</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회">
+	<legislation:소속기관>공적자금관리위원회</legislation:소속기관>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제3조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000300</legislation:JO_NO>
+	
+	<legislation:소속기관>금융정보분석원</legislation:소속기관>
+	<legislation2:법명>금융위원회와 그 소속기관 직제</legislation2:법명>
+	<legislation2:조문>제2조</legislation2:조문>
+	<legislation2:LAW_ID>200902290001</legislation2:LAW_ID>
+	<legislation2:LAW_SID>0011</legislation2:LAW_SID>
+	<legislation2:JJ_NO>000010000000000</legislation2:JJ_NO>
+	<legislation2:JO_NO>000200</legislation2:JO_NO>
+	
+	<legislation:소속기관>기획재정부 차관</legislation:소속기관>
+	<legislation:소속기관>금융감독원 원장</legislation:소속기관>
+	<legislation:소속기관>예금보험공사 사장</legislation:소속기관>
+	<legislation:소속기관>한국은행 부총재</legislation:소속기관>
+	<legislation:소속기관>금융전문가 2인</legislation:소속기관>
+	<legislation:소속기관>경제계대표 1인</legislation:소속기관>
+	<legislation3:법명>금융위원회운영규칙</legislation3:법명>
+	<legislation3:조문>제3조</legislation3:조문>
+	<legislation3:LAW_ID>199804010002</legislation3:LAW_ID>
+	<legislation3:LAW_SID>0024</legislation3:LAW_SID>
+	<legislation3:JJ_NO>000020000000000</legislation3:JJ_NO>
+	<legislation3:JO_NO>000300</legislation3:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금관리위원회">
+	<legislation:심의_사항>공적자금의 총괄·기획에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>한국정책금융공사 공적자금 회수에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>한국사산관리공사 공적자금 회수에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>예금보험공사 공적자금 회수에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>정부 공적자금 회수에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>사후관리 상황의 정기적 점검에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>사후관리 체제에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>공적자금 지원 실적의 점검에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>공적자금 지원 원칙에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>공적자금 지원 대상 관한 사항</legislation:심의_사항>
+	<legislation:조정_사항>공적자금의 효율성 제고에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>제정·개정에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>한국정책금융공사 공적자금 회수에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>한국사산관리공사 공적자금 회수에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>예금보험공사 공적자금 회수에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>정부 공적자금 회수에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>사후관리 상황의 정기적 점검에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>사후관리 체제에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>공적자금 지원 실적의 점검에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>공적자금 지원 원칙에 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>공적자금 지원 대상 관한 사항</legislation:조정_사항>
+	<legislation:조정_사항>공적자금의 총괄·기획에 관한 사항</legislation:조정_사항>
+	<legislation:심의_사항>공적자금의 효율성 제고에 관한 사항</legislation:심의_사항>
+	<legislation:심의_사항>제정·개정에 관한 사항</legislation:심의_사항>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제3조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000300</legislation:JO_NO>
+	
+	<legislation:소위원회>매각심사 소위원회</legislation:소위원회>
+	<legislation:소위원회>자금지원심사 소위원회</legislation:소위원회>
+	<legislation2:법명>공적자금관리 특별법 시행령</legislation2:법명>
+	<legislation2:조문>제5조의4</legislation2:조문>
+	<legislation2:LAW_ID>200102140001</legislation2:LAW_ID>
+	<legislation2:LAW_SID>0008</legislation2:LAW_SID>
+	<legislation2:JJ_NO>000000000000000</legislation2:JJ_NO>
+	<legislation2:JO_NO>000504</legislation2:JO_NO>
+		
+	<legislation:대행기관>공적자금관리위원회가 인정하는 자</legislation:대행기관>
+	<legislation:대행기관>한국산업은행</legislation:대행기관>
+	<legislation:대행기관>한국자산관리공사</legislation:대행기관>
+	<legislation:대행기관>예금보험공사</legislation:대행기관>
+	<legislation3:법명>공적자금상환기금법 시행령</legislation3:법명>
+	<legislation3:조문>제4조</legislation3:조문>
+	<legislation3:LAW_ID>200212300001</legislation3:LAW_ID>
+	<legislation3:LAW_SID>0005</legislation3:LAW_SID>
+	<legislation3:JJ_NO>000000000000000</legislation3:JJ_NO>
+	<legislation3:JO_NO>000400</legislation3:JO_NO>
+		
+	<legislation:민간위원>회계전문가 1명</legislation:민간위원>
+	<legislation:민간위원>법률전문가 1명</legislation:민간위원>
+	<legislation:민간위원>경제전문가 2명</legislation:민간위원>
+	<legislation:민간위원>경제전문가 1명</legislation:민간위원>
+	<legislation:민간위원>금융전문가 1명</legislation:민간위원>
+	<legislation4:법명>공적자금관리 특별법</legislation4:법명>
+	<legislation4:조문>제6조</legislation4:조문>
+	<legislation4:LAW_ID>200012200002</legislation4:LAW_ID>
+	<legislation4:LAW_SID>0008</legislation4:LAW_SID>
+	<legislation4:JJ_NO>000020000000000</legislation4:JJ_NO>
+	<legislation4:JO_NO>000600</legislation4:JO_NO>
+	
+	<legislation:공동위원장>전문가구성원중 호선하는 사람</legislation:공동위원장>
+	<legislation:공동위원장>금융위원회 위원장</legislation:공동위원장>
+	<legislation5:법명>공적자금관리 특별법</legislation5:법명>
+	<legislation5:조문>제5조</legislation5:조문>
+	<legislation5:LAW_ID>200012200002</legislation5:LAW_ID>
+	<legislation5:LAW_SID>0008</legislation5:LAW_SID>
+	<legislation5:JJ_NO>000020000000000</legislation5:JJ_NO>
+	<legislation5:JO_NO>000500</legislation5:JO_NO>
+	
+	<legislation:회의_배석자>한국정책금융공사 사장</legislation:회의_배석자>
+	<legislation:회의_배석자>한국자산관리공사 사장</legislation:회의_배석자>
+	<legislation:회의_배석자>예금보험공사 사장</legislation:회의_배석자>
+	<legislation:구성원>경제전문가 1명</legislation:구성원>
+	<legislation:구성원>금융전문가 1명</legislation:구성원>
+	<legislation:구성원>회계전문가 1명</legislation:구성원>
+	<legislation:구성원>법률전문가 1명</legislation:구성원>
+	<legislation:구성원>경제전문가 2명</legislation:구성원>
+	<legislation:구성원>기획재정부차관</legislation:구성원>
+	<legislation:구성원>금융위원회 위원장</legislation:구성원>
+	
+	<legislation6:법명>공적자금관리 특별법</legislation6:법명>
+	<legislation6:조문>제4조</legislation6:조문>
+	<legislation6:LAW_ID>200012200002</legislation6:LAW_ID>
+	<legislation6:LAW_SID>0008</legislation6:LAW_SID>
+	<legislation6:JJ_NO>000020000000000</legislation6:JJ_NO>
+	<legislation6:JO_NO>000400</legislation6:JO_NO>
+
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#업무위탁_계약">
+	<legislation:첨부서류>위탁 관련 계약서(안) 사본</legislation:첨부서류>
+	<legislation:첨부서류>수탁 따른 업무처리절차의 주요변경내용</legislation:첨부서류>
+	<legislation:첨부서류>위탁 업무처리절차의 주요변경내용</legislation:첨부서류>
+	<legislation:첨부서류>수탁의 기대효과</legislation:첨부서류>
+	<legislation:첨부서류>위탁의 기대효과</legislation:첨부서류>
+	<legislation:첨부서류>수탁의 필요성</legislation:첨부서류>
+	<legislation:첨부서류>위탁의 필요성</legislation:첨부서류>
+	<legislation:첨부서류>고려사항에 대한 관련자료 사본</legislation:첨부서류>
+	<legislation:첨부서류>고려사항에 대한 검토의견 사본</legislation:첨부서류>
+	<legislation:첨부서류>수탁 관련 계약서(안) 사본</legislation:첨부서류>
+	<legislation:법명>금융기관의업무위탁등에관한규정</legislation:법명>
+	<legislation:조문>제4조</legislation:조문>
+	<legislation:LAW_ID>200001140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000400</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융산업의_구조개선에_관한_법률">
+	<legislation:목적>금융산업의 구조개선을 지원</legislation:목적>
+	<legislation:목적>금융시장의 안정</legislation:목적>
+	<legislation:목적>금융산업의 균형 있는 발전</legislation:목적>
+	<legislation:목적>금융업무의 효율성을 높임</legislation:목적>
+	<legislation:목적>금융기관 간의 건전한 경쟁을 촉진</legislation:목적>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+	
+	<legislation:목적>시행에 관하여 필요한 사항을 규정함</legislation:목적>
+	<legislation2:법명>금융산업의 구조개선에 관한 법률 시행령</legislation2:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>199309140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0018</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금관리위원회_민간위원">
+	<legislation:임기>2년</legislation:임기>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제6조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000600</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공정자금관리위원">
+	<legislation:결격사유>대한민국 국민이 아닌 사람</legislation:결격사유>
+	<legislation:결격사유>해임되거나 면직된 후 5년이 지나지 아니한 사람</legislation:결격사유>
+	<legislation:결격사유>벌금형을 선고받고 5년이 지나지 아니한 사람</legislation:결격사유>
+	<legislation:결격사유>공무원의 결격사유에 해당하는 사람</legislation:결격사유>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제7조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000700</legislation:JO_NO>
+	
+	<legislation:의결정족수>과반수의 찬성</legislation:의결정족수>
+	<legislation2:법명>공적자금관리 특별법</legislation2:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#이행약정서">
+	<legislation:포함사항>자기자본비율</legislation:포함사항>
+	<legislation:포함사항>대통령령으로 정하는 사항</legislation:포함사항>
+	<legislation:포함사항>이행계획</legislation:포함사항>
+	<legislation:포함사항>노동조합의 동의서</legislation:포함사항>
+	<legislation:포함사항>실천계획</legislation:포함사항>
+	<legislation:포함사항>부실채권비율</legislation:포함사항>
+	<legislation:포함사항>자산대비 수익률</legislation:포함사항>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제17조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금이_지원된_금융회사">
+	<legislation:시정사항>지시를 위반한 경우</legislation:시정사항>
+	<legislation:시정사항>시정명령이나 징계 요구의 이행을 게을리한 경우</legislation:시정사항>
+	<legislation:시정사항>업무 수행을 거부·방해 또는 기피한 경우</legislation:시정사항>
+	<legislation:시정사항>자료를 거짓으로 작성한 경우</legislation:시정사항>
+	<legislation:시정사항>약정서를 이행하지 못한 경우</legislation:시정사항>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제17조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#심의·조정에_관련된_기록물">
+	<legislation:보존기간>영구</legislation:보존기간>
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제21조의2</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002102</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#민간위원">
+	<legislation:경비의_지급>수당</legislation:경비의_지급>
+	<legislation:경비의_지급>경비</legislation:경비의_지급>
+	<legislation:경비의_지급>여비</legislation:경비의_지급>
+	
+	<legislation:법명>공적자금관리 특별법</legislation:법명>
+	<legislation:조문>제23조</legislation:조문>
+	<legislation:LAW_ID>200012200002</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000040000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002300</legislation:JO_NO>
+	
+	<legislation:금융전문가_요건>국제금융기구에서 금융·투자에 관련된 업무를 15년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>국회사무처에서 2급 이상 공무원</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>행정부에서 2급 이상 공무원</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>공인된 연구기관에서 15년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>대학에서 15년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>단체에서 17년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>법인에서 17년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>검사대상기관에서 16년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>금융감독원에서 16년 이상</legislation:금융전문가_요건>
+	<legislation:금융전문가_요건>한국은행에서 15년 이상</legislation:금융전문가_요건>
+	<legislation:회계전문가_요건>대학에서 15년 이상</legislation:회계전문가_요건>
+	<legislation:회계전문가_요건>공인된 연구기관에서 15년 이상</legislation:회계전문가_요건>
+	<legislation:회계전문가_요건>공공기관에서 15년 이상</legislation:회계전문가_요건>
+	<legislation:회계전문가_요건>국회사무처에서 15년 이상</legislation:회계전문가_요건>
+	<legislation:회계전문가_요건>행정부에서 15년 이상</legislation:회계전문가_요건>
+	<legislation:회계전문가_요건>해당 직종에서 15년 이상</legislation:회계전문가_요건>
+	<legislation:법률전문가_요건>헌법재판소에서 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>법원에서 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>공인된 연구기관에서 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>공공기관에서 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>국회사무처에서 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>행정부·에서 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>변호사직에 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>검사직에 15년 이상</legislation:법률전문가_요건>
+	<legislation:법률전문가_요건>판사직에 15년 이상</legislation:법률전문가_요건>
+	<legislation:경제전문가_요건>경제협력개발기구에서 경제·금융·투자에 관련된 업무를 15년 이상</legislation:경제전문가_요건>
+	<legislation:경제전문가_요건>국제금융기구에서 경제·금융·투자에 관련된 업무를 15년 이상</legislation:경제전문가_요건>
+	<legislation:경제전문가_요건>행정부·국회사무처에서 2급 이상 공무원</legislation:경제전문가_요건>
+	<legislation:경제전문가_요건>공인된 연구기관에서 15년 이상</legislation:경제전문가_요건>
+	<legislation:경제전문가_요건>기업에서 경제·재무·금융 관련 업무를 15년 이상</legislation:경제전문가_요건>
+	
+	<legislation2:법명>공적자금관리 특별법 시행령</legislation2:법명>
+	<legislation:조문>제3조</legislation:조문>
+	<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000300</legislation:JO_NO>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금관리_특별법_시행령">
+	<legislation:목적>공적자금관리 특별법 시행사항을 규정함</legislation:목적>
+	<legislation:법명>공적자금관리 특별법 시행령</legislation:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+	
+	<legislation:금융관계법률>해외자원개발 사업법</legislation:금융관계법률>
+	<legislation:금융관계법률>중소기업창업 지원법</legislation:금융관계법률>
+	<legislation:금융관계법률>주택법</legislation:금융관계법률>
+	<legislation:금융관계법률>외국인투자 촉진법</legislation:금융관계법률>
+	<legislation:금융관계법률>선박투자회사법</legislation:금융관계법률>
+	<legislation:금융관계법률>산업발전법</legislation:금융관계법률>
+	<legislation:금융관계법률>사회기반시설에 대한 민간투자법</legislation:금융관계법률>
+	<legislation:금융관계법률>부품·소재전문기업 등의 육성에 관한 특별조치법</legislation:금융관계법률>
+	<legislation:금융관계법률>부동산투자회사법</legislation:금융관계법률>
+	<legislation:금융관계법률>부동산 가격공시 및 감정평가에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>벤처기업육성에 관한 특별조치법</legislation:금융관계법률>
+	<legislation:금융관계법률>문화산업진흥 기본법</legislation:금융관계법률>
+	<legislation:금융관계법률>근로자퇴직급여 보장법</legislation:금융관계법률>
+	<legislation:금융관계법률>금융위원회의 설치 등에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>금융지주회사법</legislation:금융관계법률>
+	<legislation:금융관계법률>금융산업의 구조개선에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>금융기관부실자산 등의 효율적 처리 및 한국자산관리공사의 설립에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>예금자보호법</legislation:금융관계법률>
+	<legislation:금융관계법률>한국주택금융공사법</legislation:금융관계법률>
+	<legislation:금융관계법률>기술신용보증기금법</legislation:금융관계법률>
+	<legislation:금융관계법률>신용보증기금법</legislation:금융관계법률>
+	<legislation:금융관계법률>한국정책금융공사법</legislation:금융관계법률>
+	<legislation:금융관계법률>외국환거래법</legislation:금융관계법률>
+	<legislation:금융관계법률>유사수신행위의규제에관한법률</legislation:금융관계법률>
+	<legislation:금융관계법률>전자금융거래법</legislation:금융관계법률>
+	<legislation:금융관계법률>특정 금융거래정보의 보고 및 이용 등에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>신용정보의 이용 및 보호에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>금융실명거래 및 비밀보장에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>대부업 등의 등록 및 금융이용자 보호에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>새마을금고법</legislation:금융관계법률>
+	<legislation:금융관계법률>신용협동조합법</legislation:금융관계법률>
+	<legislation:금융관계법률>상호저축은행법</legislation:금융관계법률>
+	<legislation:금융관계법률>수산업협동조합법</legislation:금융관계법률>
+	<legislation:금융관계법률>농업협동조합법</legislation:금융관계법률>
+	<legislation:금융관계법률>여신전문금융업법</legislation:금융관계법률>
+	<legislation:금융관계법률>보험업법</legislation:금융관계법률>
+	<legislation:금융관계법률>공인회계사법</legislation:금융관계법률>
+	<legislation:금융관계법률>주식회사의 외부감사에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>공사채등록법</legislation:금융관계법률>
+	<legislation:금융관계법률>담보부사채신탁법</legislation:금융관계법률>
+	<legislation:금융관계법률>주택저당채권유동화회사법</legislation:금융관계법률>
+	<legislation:금융관계법률>자산유동화에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>자본시장과 금융투자업에 관한 법률</legislation:금융관계법률>
+	<legislation:금융관계법률>한국수출입은행법</legislation:금융관계법률>
+	<legislation:금융관계법률>중소기업은행법</legislation:금융관계법률>
+	<legislation:금융관계법률>한국산업은행법</legislation:금융관계법률>
+	<legislation:금융관계법률>한국은행법</legislation:금융관계법률>
+	<legislation:금융관계법률>은행법</legislation:금융관계법률>
+	<legislation2:법명>공적자금관리 특별법 시행령</legislation2:법명>
+	<legislation:조문>제5조</legislation:조문>
+	<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000500</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융안정기금">
+	<legislation:자금지원>자금의 대출</legislation:자금지원>
+	<legislation:자금지원>출자</legislation:자금지원>
+	<legislation:자금지원>채무의 인수</legislation:자금지원>
+	<legislation:자금지원>채무의 보증</legislation:자금지원>
+	<legislation:자금지원>자산의 매수</legislation:자금지원>
+	<legislation:자금지원>자금의 예치</legislation:자금지원>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+	
+	<legislation:용도>기금의 운용비용</legislation:용도>
+	<legislation:용도>금융안정기금채권의 원리금 상환</legislation:용도>
+	<legislation:용도>차입금 이자의 상환</legislation:용도>
+	<legislation:용도>차입금의 상환</legislation:용도>
+	<legislation:용도>금융기관에 지원하는 자금 부대비용</legislation:용도>
+	<legislation:용도>금융기관에 지원하는 자금</legislation:용도>
+	<legislation:재원금>기금운용수익 및 그 밖의 수입금</legislation:재원금>
+	<legislation:재원금>정책금융공사의 정관으로 정하는 수입금</legislation:재원금>
+	<legislation:재원금>자금지원을 받은 금융기관으로부터 회수한 자금</legislation:재원금>
+	<legislation:재원금>금융안정기금채권을 발행하여 조성한 자금</legislation:재원금>
+	<legislation:재원금>정부부터의 차입금</legislation:재원금>
+	<legislation:재원금>한국은행의 차입금</legislation:재원금>
+	<legislation:재원금>기업 외의 자의 출연금</legislation:재원금>
+	<legislation:재원금>금융기관 외의 자의 출연금</legislation:재원금>
+	<legislation:재원금>기업의 출연금</legislation:재원금>
+	<legislation:재원금>금융기관의 출연금</legislation:재원금>
+	<legislation2:법명>금융산업의 구조개선에 관한 법률</legislation2:법명>
+	<legislation:조문>제23조의2</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000042000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002302</legislation:JO_NO>
+	
+	<legislation:운용>금융위원회가 정하여 고시하는 방법</legislation:운용>
+	<legislation:운용>금융기관에의 대여</legislation:운용>
+	<legislation:운용>금융기관에의 예치</legislation:운용>
+	<legislation:운용>공채 매입</legislation:운용>
+	<legislation:운용>국채 매입</legislation:운용>
+	<legislation3:법명>금융산업의 구조개선에 관한 법률</legislation3:법명>
+	<legislation:조문>제23조의3</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000042000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002303</legislation:JO_NO>
+
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#합병">
+	<legislation:조세_감면_사항>취득에 따른 취득세</legislation:조세_감면_사항>
+	<legislation:조세_감면_사항>그 밖의 조세</legislation:조세_감면_사항>
+	<legislation:조세_감면_사항>의제배당에 대한 법인세</legislation:조세_감면_사항>
+	<legislation:조세_감면_사항>의제배당에 대한 소득세</legislation:조세_감면_사항>
+	<legislation:조세_감면_사항>청산소득에 대한 법인세</legislation:조세_감면_사항>
+	<legislation:조세_감면_사항>등기에 따른 등록세</legislation:조세_감면_사항>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제4조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000400</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#산업금융과장">
+	<legislation:분장_사항>중소기업금융에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도·감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령 및 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령 및 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>제1호부터 제11호까지와 관련된 사항에 대한 조사·연구</legislation:분장_사항>
+	<legislation:분장_사항>기업 구조조정 지원업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>기업의 구조조정 관련 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>기업의 구조조정 관련 정책의 협의</legislation:분장_사항>
+	<legislation:분장_사항>예금보험공사의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>예금자보호에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>한국자산관리공사의 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융기관의 부실자산 정리에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>성장동력 육성 분야에 대한 금융지원제도</legislation:분장_사항>
+	<legislation:분장_사항>기업자금 사정 분석</legislation:분장_사항>
+	<legislation:분장_사항>기업자금 사정 점검</legislation:분장_사항>
+	<legislation:분장_사항>기업자금 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>기업자금 정책의 총괄기획</legislation:분장_사항>
+	<legislation:분장_사항>한국수출입은행의 경영건전성 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>중소기업은행의 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국정책금융공사의 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국산업은행의 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>농림수산업자신용보증기금의 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>기술신용보증기금의 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용보증기금의 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용보증제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>국책은행 민영화에 관한 사항</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#글로벌금융과장">
+	<legislation:분장_사항>위원회 내 다른 부서의 국제교류 업무의 지원</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>제1호부터 제9호까지와 관련된 사항에 대한 조사·연구</legislation:분장_사항>
+	<legislation:분장_사항>남북금융협력에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>경제협력개발기구(OECD) 내 금융시장위원회에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>외국환거래 당사자 제재에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>해외직접투자 신고수리에 관한 업무</legislation:분장_사항>
+	<legislation:분장_사항>금융산업의 글로벌 네트워크의 강화에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>국제 금융감독기구와의 협력 업무</legislation:분장_사항>
+	<legislation:분장_사항>외국 감독기구와의 협력 업무</legislation:분장_사항>
+	<legislation:분장_사항>외국 금융당국과의 협력 업무</legislation:분장_사항>
+	<legislation:분장_사항>금융서비스의 대외협력업무</legislation:분장_사항>
+	<legislation:분장_사항>금융서비스의 양자·다자간 협상</legislation:분장_사항>
+	<legislation:분장_사항>금융산업의 국제경쟁력 강화에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융의 국제화</legislation:분장_사항>
+	<legislation:분장_사항>금융의 개방</legislation:분장_사항>
+	<legislation:분장_사항>국제회의 등 국제행사 참가에 관한 사항</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융실명거래및비밀보장에관한법률_제2조제2호">
+	<legislation:총리령이_정하는_것>신주인수권을 표시한 증서</legislation:총리령이_정하는_것>
+	<legislation:법명>금융실명거래및비밀보장에관한법률시행규칙</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>199712310004</legislation:LAW_ID>
+	<legislation:LAW_SID>0002</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융실명거래및비밀보장에관한법률_제2조제3호">
+	<legislation:총리령이_정하는_것>외국이나 외국법인이 발행한 증권</legislation:총리령이_정하는_것>
+	<legislation:법명>금융실명거래및비밀보장에관한법률시행규칙</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>199712310004</legislation:LAW_ID>
+	<legislation:LAW_SID>0002</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융실명거래및비밀보장에관한법률_제2조제4호">
+	<legislation:총리령이_정하는_것>외국이나 외국법인이 발행한 증서</legislation:총리령이_정하는_것>
+	<legislation:법명>금융실명거래및비밀보장에관한법률시행규칙</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>199712310004</legislation:LAW_ID>
+	<legislation:LAW_SID>0002</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#등록공사채의_이전등록">
+	<legislation:교부>등록필증</legislation:교부>
+	<legislation:법명>공사채 등록법 시행규칙</legislation:법명>
+	<legislation:조문>제35조</legislation:조문>
+	<legislation:LAW_ID>197108250001</legislation:LAW_ID>
+	<legislation:LAW_SID>0004</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>003500</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#담보권의_설정_등록">
+	<legislation:교부>등록필증</legislation:교부>
+	<legislation:법명>공사채 등록법 시행규칙</legislation:법명>
+	<legislation:조문>제35조</legislation:조문>
+	<legislation:LAW_ID>197108250001</legislation:LAW_ID>
+	<legislation:LAW_SID>0004</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>003500</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#담보권의_이전_등록">
+	<legislation:교부>등록필증</legislation:교부>
+	<legislation:법명>공사채 등록법 시행규칙</legislation:법명>
+	<legislation:조문>제35조</legislation:조문>
+	<legislation:LAW_ID>197108250001</legislation:LAW_ID>
+	<legislation:LAW_SID>0004</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>003500</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#신성장금융팀장">
+	<legislation:분장_사항>녹색금융에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>제1호부터 제3호까지와 관련된 사항에 대한 조사·연구</legislation:분장_사항>
+	<legislation:분장_사항>민간 금융기관 및 정책금융기관 협의체의 운영</legislation:분장_사항>
+	<legislation:분장_사항>사회·경제구조 변화에 대응한 금융지원에 관한 총괄 조정</legislation:분장_사항>
+	<legislation:분장_사항>사회·경제구조 변화에 대응한 금융지원에 관한 기획</legislation:분장_사항>
+	<legislation:분장_사항>신성장산업 분야 관련 금융지원에 관한 총괄 조정</legislation:분장_사항>
+	<legislation:분장_사항>신성장산업 분야 관련 금융지원에 관한 기획</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#국제협력팀장">
+	<legislation:분장_사항>금융중심지 정책에 관한 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>제1호부터 제7호까지와 관련된 사항에 대한 조사·연구</legislation:분장_사항>
+	<legislation:분장_사항>국내 금융회사 등의 해외 진출 지원</legislation:분장_사항>
+	<legislation:분장_사항>외국 금융회사 등의 국내 진출 지원</legislation:분장_사항>
+	<legislation:분장_사항>금융에 관한 국제 홍보업무의 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융에 관한 국제 홍보업무의 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융전문인력 양성에 관한 기획 및 총괄·조정</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책 지원기관의 운영에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책 지원기관의 설립에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지추진위원회의 운영</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지추진위원회의 구성</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지의 기본계획의 시행에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지의 기본계획의 수립에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융클러스터 추진에 관한 총괄 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융클러스터 추진에 관한 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융중심지 정책에 관한 총괄 조정</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#보고를_하지_아니_한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#보고를_거짓으로_한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_인가를_받지_아니하고_법령에_따라_수행할_수_없는_업무를_계속한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#수행할_수_없는_업무를_계속한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#초과하여_의결권을_행사한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회에_신고를_하지_아니하거나_승인을_받지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#요구_또는_명령을_이행하지_아니하거나_위반한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회가_정한_절차에_따라_3년_이내에_관련_법령에_적합하게_하지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#주식의_매입을_하지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_명령을_위반">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_처분을_위반">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_명령을_불이행">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_처분을_불이행">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#계약이전과_관련된_자료를_보관_안_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#계약이전과_관련된_자료를_관리_안_한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#계약이전과_관련된_자료_열람을_거부한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#승인을_받지_아니하고_다른_회사의_주식을_소유한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#은행과장">
+	<legislation:분장_사항>은행업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행에 관한 사항으로서 국내 다른 과의 주관에 속하지 아니하는 사항</legislation:분장_사항>
+	<legislation:분장_사항>농어가목돈마련저축기금에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>저축제도에 관한 기획</legislation:분장_사항>
+	<legislation:분장_사항>저축제도에 관한 조사</legislation:분장_사항>
+	<legislation:분장_사항>은행연합회 등 유관기관의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행의 여신관행 개선에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행의 신용공여에 관한 감독업무의 조정</legislation:분장_사항>
+	<legislation:분장_사항>은행의 신용공여에 관한 감독업무의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>외국은행 국내지점의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>수산업협동조합중앙회의 신용사업 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>농업협동조합중앙회의 신용사업 업무 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융실명제의 정책 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융실명제에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행산업 구조개선에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행산업의 국제화에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행업의 구조조정 지원에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행업의 감독</legislation:분장_사항>
+	<legislation:분장_사항>은행업의 허가</legislation:분장_사항>
+	<legislation:분장_사항>은행업의 인가</legislation:분장_사항>
+	<legislation:분장_사항>은행제도에 관한 기본정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#부실금융기관_시정조치">
+	<legislation:권고사항>금융기관에 대한 주의</legislation:권고사항>
+	<legislation:명령사항>그 밖에 필요하다고 인정되는 조치</legislation:명령사항>
+	<legislation:명령사항>계약이전</legislation:명령사항>
+	<legislation:명령사항>제3자에 의한 해당 금융기관의 인수(引受)</legislation:명령사항>
+	<legislation:명령사항>합병</legislation:명령사항>
+	<legislation:명령사항>영업의 일부 정지</legislation:명령사항>
+	<legislation:명령사항>영업의 전부정지</legislation:명령사항>
+	<legislation:명령사항>주식의 병합</legislation:명령사항>
+	<legislation:명령사항>주식의 소각</legislation:명령사항>
+	<legislation:명령사항>임원의 직무를 대행하는 관리인의 선임</legislation:명령사항>
+	<legislation:명령사항>임원의 직무정지 관리인의 선임</legislation:명령사항>
+	<legislation:명령사항>비정상적으로 높은 금리에 의한 수신의 제한</legislation:명령사항>
+	<legislation:명령사항>가격변동 등의 위험이 높은 자산의 취득금지</legislation:명령사항>
+	<legislation:명령사항>채무불이행 자산의 취득금지</legislation:명령사항>
+	<legislation:명령사항>조직의 축소</legislation:명령사항>
+	<legislation:명령사항>점포의 축소</legislation:명령사항>
+	<legislation:명령사항>보유자산의 처분</legislation:명령사항>
+	<legislation:명령사항>자본감소</legislation:명령사항>
+	<legislation:명령사항>자본증가</legislation:명령사항>
+	<legislation:명령사항>임직원에 대한 감봉</legislation:명령사항>
+	<legislation:명령사항>임직원에 대한 견책</legislation:명령사항>
+	<legislation:명령사항>임직원에 대한 경고</legislation:명령사항>
+	<legislation:명령사항>임직원에 대한 주의</legislation:명령사항>
+	<legislation:명령사항>금융기관에 대한 감봉</legislation:명령사항>
+	<legislation:명령사항>금융기관에 대한 견책</legislation:명령사항>
+	<legislation:명령사항>금융기관에 대한 경고</legislation:명령사항>
+	<legislation:명령사항>금융기관에 대한 주의</legislation:명령사항>
+	<legislation:요구사항>그 밖에 필요하다고 인정되는 조치</legislation:요구사항>
+	<legislation:요구사항>계약이전</legislation:요구사항>
+	<legislation:요구사항>제3자에 의한 해당 금융기관의 인수(引受)</legislation:요구사항>
+	<legislation:요구사항>합병</legislation:요구사항>
+	<legislation:요구사항>영업의 일부 정지</legislation:요구사항>
+	<legislation:요구사항>영업의 전부정지</legislation:요구사항>
+	<legislation:요구사항>주식의 병합</legislation:요구사항>
+	<legislation:요구사항>주식의 소각</legislation:요구사항>
+	<legislation:요구사항>임원의 직무를 대행하는 관리인의 선임</legislation:요구사항>
+	<legislation:요구사항>임원의 직무정지 관리인의 선임</legislation:요구사항>
+	<legislation:요구사항>비정상적으로 높은 금리에 의한 수신의 제한</legislation:요구사항>
+	<legislation:요구사항>가격변동 등의 위험이 높은 자산의 취득금지</legislation:요구사항>
+	<legislation:요구사항>채무불이행 자산의 취득금지</legislation:요구사항>
+	<legislation:요구사항>조직의 축소</legislation:요구사항>
+	<legislation:요구사항>점포의 축소</legislation:요구사항>
+	<legislation:요구사항>보유자산의 처분</legislation:요구사항>
+	<legislation:요구사항>자본감소</legislation:요구사항>
+	<legislation:요구사항>자본증가</legislation:요구사항>
+	<legislation:요구사항>임직원에 대한 감봉</legislation:요구사항>
+	<legislation:요구사항>임직원에 대한 견책</legislation:요구사항>
+	<legislation:요구사항>임직원에 대한 경고</legislation:요구사항>
+	<legislation:요구사항>임직원에 대한 주의</legislation:요구사항>
+	<legislation:요구사항>금융기관에 대한 감봉</legislation:요구사항>
+	<legislation:요구사항>금융기관에 대한 견책</legislation:요구사항>
+	<legislation:요구사항>금융기관에 대한 경고</legislation:요구사항>
+	<legislation:요구사항>금융기관에 대한 주의</legislation:요구사항>
+	<legislation:권고사항>그 밖에 필요하다고 인정되는 조치</legislation:권고사항>
+	<legislation:권고사항>계약이전</legislation:권고사항>
+	<legislation:권고사항>제3자에 의한 해당 금융기관의 인수(引受)</legislation:권고사항>
+	<legislation:권고사항>합병</legislation:권고사항>
+	<legislation:권고사항>영업의 일부 정지</legislation:권고사항>
+	<legislation:권고사항>영업의 전부정지</legislation:권고사항>
+	<legislation:권고사항>주식의 병합</legislation:권고사항>
+	<legislation:권고사항>주식의 소각</legislation:권고사항>
+	<legislation:권고사항>임원의 직무를 대행하는 관리인의 선임</legislation:권고사항>
+	<legislation:권고사항>임원의 직무정지 관리인의 선임</legislation:권고사항>
+	<legislation:권고사항>비정상적으로 높은 금리에 의한 수신의 제한</legislation:권고사항>
+	<legislation:권고사항>가격변동 등의 위험이 높은 자산의 취득금지</legislation:권고사항>
+	<legislation:권고사항>채무불이행 자산의 취득금지</legislation:권고사항>
+	<legislation:권고사항>조직의 축소</legislation:권고사항>
+	<legislation:권고사항>점포의 축소</legislation:권고사항>
+	<legislation:권고사항>보유자산의 처분</legislation:권고사항>
+	<legislation:권고사항>자본감소</legislation:권고사항>
+	<legislation:권고사항>자본증가</legislation:권고사항>
+	<legislation:권고사항>임직원에 대한 감봉</legislation:권고사항>
+	<legislation:권고사항>임직원에 대한 견책</legislation:권고사항>
+	<legislation:권고사항>임직원에 대한 경고</legislation:권고사항>
+	<legislation:권고사항>임직원에 대한 주의</legislation:권고사항>
+	<legislation:권고사항>금융기관에 대한 감봉</legislation:권고사항>
+	<legislation:권고사항>금융기관에 대한 견책</legislation:권고사항>
+	<legislation:권고사항>금융기관에 대한 경고</legislation:권고사항>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융서비스국장">
+	<legislation:분장_사항>은행업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유관기관의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융협회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합중앙회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행중앙회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융업에 구조조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융업에 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융업에 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융업에 인가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업 구조조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업 인가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행업 구조조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행업 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행업 인가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>유사금융 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유사금융에 대한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융채무 불이행자 정책에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단의 복지사업에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>휴면보험금의 관리</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금의 관리</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책의 조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책의 수립에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용정보의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용정보의 관리에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용정보 집중기관의 감독</legislation:분장_사항>
+	<legislation:분장_사항>신용정보 집중기관의 등록</legislation:분장_사항>
+	<legislation:분장_사항>신용정보 집중기관의 허가</legislation:분장_사항>
+	<legislation:분장_사항>신용정보 집중기관의 인가</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업 감독</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업 등록</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업 허가</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업 인가</legislation:분장_사항>
+	<legislation:분장_사항>사금융 이용자 보호에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>대부업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>대부업에 관한 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>대부업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>보험업협회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유사보험업의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>공제사업의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>공영보험의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>퇴직보험제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>개인연금제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융 제도개선에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융 관련 보안정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>전기통신금융사기 피해금 환급 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전기통신금융사기 피해금 환급에 관한 정책의 제도개선</legislation:분장_사항>
+	<legislation:분장_사항>전기통신금융사기 피해금 환급에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업 등록에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융거래 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융거래등록에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융거래 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융거래에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행의 신용공여에 대한 감독업무의 조정</legislation:분장_사항>
+	<legislation:분장_사항>은행의 신용공여에 대한 감독업무의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>외국은행 국내지점의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>수산업협동조합중앙회의 신용사업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>수산업협동조합중앙회의 신용사업 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>농업협동조합중앙회의 신용사업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>농업협동조합중앙회의 신용사업 업무에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융실명제에 관한 정책의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융실명제에 관한 정책의 수립에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 구조개선에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 국제화에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행산업 구조개선에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>은행산업 국제화에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>보험업 구조조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업 인가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행업 구조조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행업 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>은행업 인가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제</legislation:법명>
+	<legislation:조문>제13조</legislation:조문>
+	<legislation:LAW_ID>200902290001</legislation:LAW_ID>
+	<legislation:LAW_SID>0011</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001300</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#자금_신청기관">
+	<legislation:심사_사항>업종</legislation:심사_사항>
+	<legislation:심사_사항>금융시장의 안정과 중개기능 제고에의 기여 가능성</legislation:심사_사항>
+	<legislation:심사_사항>과거의 지원실적</legislation:심사_사항>
+	<legislation:심사_사항>지배주주가 있는지 여부</legislation:심사_사항>
+	<legislation:심사_사항>재무상태</legislation:심사_사항>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제23조의6</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000042000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002306</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#자본시장국">
+	<legislation:분장_사항>자본시장 선진화에 관한 종합적인 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 조사결과의 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 조사업무 조정에 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 조사업무 총괄에 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 조사업무 기획에 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 중요사실의 누락의 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 공시자료의 허위 기재 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품시장 불공정거래의 조치</legislation:분장_사항>
+	<legislation:분장_사항>증권시장 조사결과의 조치</legislation:분장_사항>
+	<legislation:분장_사항>증권시장 조사업무 조정에 조치</legislation:분장_사항>
+	<legislation:분장_사항>증권시장 조사업무 총괄에 조치</legislation:분장_사항>
+	<legislation:분장_사항>증권시장 조사업무 기획에 조치</legislation:분장_사항>
+	
+	<legislation:분장_사항>증권시장 중요사실의 누락의 조치</legislation:분장_사항>
+	<legislation:분장_사항>증권시장 공시자료의 허위 기재 조치</legislation:분장_사항>
+	<legislation:분장_사항>증권시장 불공정거래의 조치</legislation:분장_사항>
+	<legislation:분장_사항>파생상품의 정책제도연구에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>파생상품의 관련 정책 수립에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>파생상품의 조사에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권상품의 정책제도연구에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권상품의 조사에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권상품의 정책 수립에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국회계기준원에 대한 감독 등에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>외부감사기준의 개정 감독 등에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>외부감사기준의 제정 감독 등에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>회계기준 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권 등의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권 등의 공시제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>공인회계사제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>기업회계제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>주식회사 외부감사제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>퇴직연금 등 연금 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신탁제도에 관한 감독</legislation:분장_사항>
+	<legislation:분장_사항>신탁제도에 관한 정책</legislation:분장_사항>
+	<legislation:분장_사항>집합투자서비스에 관한 감독</legislation:분장_사항>
+	<legislation:분장_사항>집합투자서비스에 관한 정책</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 유관기관의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국금융투자협회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권금융회사의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국예탁결제원의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>한국거래소의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>기업의 상장제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>기업의 공개에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>결제시스템에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>증권예탁제도에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>자산유동화증권의 유통감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>자산유동화증권의 발행에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자상품의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자상품의 판매에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 구조조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 허가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 인가에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 정책에 관한 사항</legislation:분장_사항>
+		
+	<legislation:법명>금융위원회와 그 소속기관 직제</legislation:법명>
+	<legislation:조문>제14조</legislation:조문>
+	<legislation:LAW_ID>200902290001</legislation:LAW_ID>
+	<legislation:LAW_SID>0011</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001400</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금_분할지원">
+	<legislation:예외_사항>한국정책금융공사에 출자하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>한국산업은행에 출자하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>자산을 매수하는 방식으로 공적자금을 지원하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>규정에 의한 자금지원을 하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>정리금융기관에 대하여 공적자금을 지원하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>예금등 채권을 매입하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>안정성 유지를 위하여 불가피한 경우</legislation:예외_사항>
+	<legislation:예외_사항>순자산부족분을 보전하기 위하여 공적자금을 지원하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>중소기업은행에 출자하는 경우</legislation:예외_사항>
+	<legislation:예외_사항>한국수출입은행에 출자하는 경우</legislation:예외_사항>
+	<legislation:법명>공적자금관리 특별법 시행령</legislation:법명>
+	<legislation:조문>제7조</legislation:조문>
+	<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#경영정상화_이행약정">
+	<legislation:비공개_사항>주식 발행에 관한 사항</legislation:비공개_사항>
+	<legislation:비공개_사항>경영정상화계획을 추진하기 위한 방법에 관한 사항</legislation:비공개_사항>
+	<legislation:비공개_사항>채권 매각에 관한 사항</legislation:비공개_사항>
+	<legislation:비공개_사항>부동산 매각에 관한 사항</legislation:비공개_사항>
+	<legislation:비공개_사항>채권 발행에 관한 사항</legislation:비공개_사항>
+	<legislation:법명>공적자금관리 특별법 시행령</legislation:법명>
+	<legislation:조문>제9조</legislation:조문>
+	<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+	<legislation:LAW_SID>0008</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000900</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금상환기금법">
+	<legislation:목적>공적자금상환기금의 설치 및 그 운용·관리 등에 필요한 사항을 규정함</legislation:목적>
+	<legislation:법명>공적자금상환기금법</legislation:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>200212260001</legislation:LAW_ID>
+	<legislation:LAW_SID>0009</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#예금보험기금채권상환기금">
+	<legislation:채무>대통령령으로 정한 채권의 원리금</legislation:채무>
+	<legislation:채무>공공자금관리기금의 융자금</legislation:채무>
+	<legislation:법명>공적자금상환기금법</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>200212260001</legislation:LAW_ID>
+	<legislation:LAW_SID>0009</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#부실채권정리기금">
+	<legislation:채무>대통령령으로 정한 채권의 원리금</legislation:채무>
+	<legislation:채무>공공자금관리기금의 융자금</legislation:채무>
+	<legislation:법명>공적자금상환기금법</legislation:법명>
+	<legislation:조문>제2조</legislation:조문>
+	<legislation:LAW_ID>200212260001</legislation:LAW_ID>
+	<legislation:LAW_SID>0009</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000200</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금상환기금">
+	<legislation:재원금>공공자금관리기금으로부터의 예수금</legislation:재원금>
+	<legislation:재원금>대통령령으로 정하는 자금</legislation:재원금>
+	<legislation:재원금>일시차입금</legislation:재원금>
+	<legislation:재원금>우체국보험특별회계법에 따른 우체국보험특별회계로부터의 출연금</legislation:재원금>
+	<legislation:재원금>정부기업예산법에 따른 우체국예금특별회계로부터의 출연금</legislation:재원금>
+	<legislation:재원금>기금의 결산상 잉여금</legislation:재원금>
+	<legislation:재원금>정부의 회계로부터의 출연금</legislation:재원금>
+	<legislation:재원금>국가재정법 제90조에 따른 세계잉여금</legislation:재원금>
+	<legislation:법명>공적자금상환기금법</legislation:법명>
+	<legislation:조문>제3조</legislation:조문>
+	<legislation:LAW_ID>200212260001</legislation:LAW_ID>
+	<legislation:LAW_SID>0009</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000300</legislation:JO_NO>
+	
+	<legislation:용도>기금의 운용·관리에 필요한 비용</legislation:용도>
+	<legislation:용도>기금의 부채 상환</legislation:용도>
+	<legislation:용도>부실채권정리기금에 대한 출연</legislation:용도>
+	<legislation:용도>예금보험기금채권상환기금에 대한 출연</legislation:용도>
+	<legislation2:법명>공적자금상환기금법</legislation2:법명>
+	<legislation:조문>제4조</legislation:조문>
+	<legislation:LAW_ID>200212260001</legislation:LAW_ID>
+	<legislation:LAW_SID>0009</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000400</legislation:JO_NO>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융기능제고계획">
+	<legislation:포함사항>자금지원 신청금액</legislation:포함사항>
+	<legislation:포함사항>대통령령으로 정하는 사항</legislation:포함사항>
+	<legislation:포함사항>이행 기간</legislation:포함사항>
+	<legislation:포함사항>와화조달 방안</legislation:포함사항>
+	<legislation:포함사항>기업구조조정에 관한 방안</legislation:포함사항>
+	<legislation:포함사항>신용공여 등 지원방안</legislation:포함사항>
+	<legislation:포함사항>자금지원 용도</legislation:포함사항>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제23조의7</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000042000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002307</legislation:JO_NO>
+	
+	<legislation:감독상_필요한_조치>감독하기 위하여 필요하다고 인정되는 조치</legislation:감독상_필요한_조치>
+	<legislation:감독상_필요한_조치>임원의 직무대행 관리인의 선임</legislation:감독상_필요한_조치>
+	<legislation:감독상_필요한_조치>임원의 직무정지 관리인의 선임</legislation:감독상_필요한_조치>
+	<legislation:감독상_필요한_조치>문책 요구</legislation:감독상_필요한_조치>
+	<legislation:감독상_필요한_조치>임원에 대한 경고 요구</legislation:감독상_필요한_조치>
+	<legislation:감독상_필요한_조치>임원에 대한 주의 요구</legislation:감독상_필요한_조치>
+	<legislation:감독상_필요한_조치>시정명령</legislation:감독상_필요한_조치>
+	<legislation2:법명>금융산업의 구조개선에 관한 법률</legislation2:법명>
+	<legislation:조문>제23조의9</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000042000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002309</legislation:JO_NO>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#명령을_이행하기_위한_절차·조치를_이행하지_아니한_경우">
+	<legislation:벌칙>1년 이하으 징역 또는 1천만원</legislation:벌칙>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제27조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#명령을_위반한_경우">
+	<legislation:벌칙>1년 이하으 징역 또는 2천만원</legislation:벌칙>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제27조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#해산에_필요한_절차를_이행하지_아니한_경우">
+	<legislation:벌칙>1년 이하으 징역 또는 3천만원</legislation:벌칙>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제27조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#승인을_받지_아니하고_주식을_소유">
+	<legislation:벌칙>1년 이하으 징역 또는 4천만원</legislation:벌칙>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제27조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002700</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#보고를_하지_아니_한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#보고를_거짓으로_한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_인가를_받지_아니하고_법령에_따라_수행할_수_없는_업무를_계속한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#수행할_수_없는_업무를_계속한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#초과하여_의결권을_행사한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회에_신고를_하지_아니하거나_승인을_받지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#요구_또는_명령을_이행하지_아니하거나_위반한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회가_정한_절차에_따라_3년_이내에_관련_법령에_적합하게_하지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#주식을_병합한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공고를_하지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#주식의_매입을_하지_아니한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_명령을_위반">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_처분을_위반">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_명령을_불이행">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회의_처분을_불이행">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#계약이전과_관련된_자료를_보관_안_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#계약이전과_관련된_자료를_관리_안_한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#계약이전과_관련된_자료_열람을_거부한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#승인을_받지_아니하고_다른_회사의_주식을_소유한_경우">
+	<legislation:과태료>2천만원</legislation:과태료>
+	<legislation:법명>금융산업의 구조개선에 관한 법률</legislation:법명>
+	<legislation:조문>제28조</legislation:조문>
+	<legislation:LAW_ID>199103080001</legislation:LAW_ID>
+	<legislation:LAW_SID>0020</legislation:LAW_SID>
+	<legislation:JJ_NO>000070000000000</legislation:JJ_NO>
+	<legislation:JO_NO>002800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#보험과장">
+	<legislation:분장_사항>보험업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>보험에 관한 사항으로서 국내 다른 과의 주관에 속하지 아니하는 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험유관기관의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유사보험과의 정책조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유사보험업의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>손해보험의 업무영역 조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>생명보험의 업무영역 조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>퇴직보험제도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>개인연금에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 보험산업 구조개선에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 국제화에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 구조조정 지원에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 감독</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 허가</legislation:분장_사항>
+	<legislation:분장_사항>보험업의 인가</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공적자금상환기금법_시행령">
+	<legislation:목적>공적자금상환기금법」시행에 필요한 사항을 규정함</legislation:목적>
+	<legislation:법명>공적자금상환기금법 시행령</legislation:법명>
+	<legislation:조문>제1조</legislation:조문>
+	<legislation:LAW_ID>200212300001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000100</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#기금결산보고서">
+	<legislation:첨부서류>기금의 개황(槪況) 및 분석에 관한 서류</legislation:첨부서류>
+	<legislation:첨부서류>결산과 관련된 서류</legislation:첨부서류>
+	<legislation:첨부서류>현금의 지출을 명백히 하는 서류 </legislation:첨부서류>
+	<legislation:첨부서류>현금의 수입을 명백히 하는 서류 </legislation:첨부서류>
+	<legislation:첨부서류>지출계산서</legislation:첨부서류>
+	<legislation:첨부서류>수입계산서</legislation:첨부서류>
+	<legislation:첨부서류>손익계산서</legislation:첨부서류>
+	<legislation:첨부서류>대차대조표</legislation:첨부서류>
+	<legislation:법명>공적자금상환기금법 시행령</legislation:법명>
+	<legislation:조문>제4조</legislation:조문>
+	<legislation:LAW_ID>200212300001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000400</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#대행기관">
+	<legislation:대행계약체결사항>대행의 목적</legislation:대행계약체결사항>
+	<legislation:대행계약체결사항>대행업무의 수행에 필요한 사항</legislation:대행계약체결사항>
+	<legislation:대행계약체결사항>대행 비용</legislation:대행계약체결사항>
+	<legislation:대행계약체결사항>대행 수수료</legislation:대행계약체결사항>
+	<legislation:대행계약체결사항>대행의 범위</legislation:대행계약체결사항>
+	<legislation:법명>공적자금상환기금법 시행령</legislation:법명>
+	<legislation:조문>제4조</legislation:조문>
+	<legislation:LAW_ID>200212300001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000400</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#기금운용심의회">
+
+    <legislation:심의>기금의 주요 정책</legislation:심의>
+	<legislation:심의>회의에 부치는 사항</legislation:심의>
+	<legislation:심의>대통령령으로 정하는 사항</legislation:심의>
+	<legislation:심의>기금결산보고서의 작성</legislation:심의>
+	<legislation:심의>주요항목 지출금액의 변경</legislation:심의>
+	<legislation:심의>기금운용계획안의 수립</legislation:심의>
+	<legislation:법명>공적자금상환기금법</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200212260001</legislation:LAW_ID>
+	<legislation:LAW_SID>0009</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+	
+	<legislation:위원장>금융위원회 부위원장</legislation:위원장>
+	<legislation:위원>금융위원회가 위촉하는 사람</legislation:위원>
+	<legislation:위원>한국자산관리공사의 임원으로서 부실채권정리기금의 관리를 담당하는 사람</legislation:위원>
+	<legislation:위원>예금보험공사의 임원으로서 예금보험기금채권상환기금의 관리를 담당하는 사람</legislation:위원>
+	<legislation:위원>한국은행의 부총재보로서 기금의 관리를 담당하는 사람</legislation:위원>
+	<legislation:위원>고위공무원단에 기획재정부장관이 지정하는 사람</legislation:위원>
+	<legislation:위원>기획재정부의 3급 공무원</legislation:위원>
+	<legislation:위원>고위공무원단에 기금의 관리를 담당하는 사람</legislation:위원>
+	<legislation:위원>금융위원회의 3급 공무원</legislation:위원>
+	<legislation:법명>공적자금상환기금법 시행령</legislation:법명>
+	<legislation:조문>제8조</legislation:조문>
+	<legislation:LAW_ID>200212300001</legislation:LAW_ID>
+	<legislation:LAW_SID>0005</legislation:LAW_SID>
+	<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+	<legislation:JO_NO>000800</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#전자금융팀장">
+	<legislation:분장_사항>전자금융거래에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전기통신금융사기 피해금환급에 관한 제도개선에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전기통신금융사기 피해금환급에 관한 정책수립</legislation:분장_사항>
+	<legislation:분장_사항>금융분야 주요정보통신시설 보호에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융분야 위기관리에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융분야 국가기반체계에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업의 등록</legislation:분장_사항>
+	<legislation:분장_사항>전자금융업의 허가</legislation:분장_사항>
+	<legislation:분장_사항>전자금융 관련 제도개선에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>전자금융 관련 보안정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#중소금융과장">
+	<legislation:분장_사항>상호저축은행에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>제1호부터 제14호까지와 관련된 금융감독원의 업무에 대한 위원회의 지도·감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도·감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유사금융의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유사금융에 대한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>사(私)금융 이용자 보호에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>대부업정책협의회의 운영에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>대부업에 관한 정책의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>대부업에 관한 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>대부업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책에 관한 국제협력</legislation:분장_사항>
+	<legislation:분장_사항>신용정보집중기관의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용정보집중기관의 등록</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업의 허가</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업의 인가</legislation:분장_사항>
+	<legislation:분장_사항>금융채무 불이행자 정책에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단에 관한 감독</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단에 관한 지도</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단의 복지사업에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>휴면보험금의 관리에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금의 관리에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책의 조정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융감독원의 업무에 대한 위원회의 지도에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 규정의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 개정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융관계 법령의 제정에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유관기관의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업협회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합중앙회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행중앙회의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융의 구조조정 지원에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호금융의 감독</legislation:분장_사항>
+	<legislation:분장_사항>상호금융의 허가</legislation:분장_사항>
+	<legislation:분장_사항>상호금융의 인가</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합의 구조조정 지원에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합의 감독</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합의 허가</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합의 인가</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업의 구조조정 지원에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업의 감독</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업의 허가</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업의 인가</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행의 구조조정 지원에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행의 감독</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행의 허가</legislation:분장_사항>
+	<legislation:분장_사항>상호저축은행의 인가</legislation:분장_사항>
+	<legislation:분장_사항>상호금융에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>신용협동조합에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>여신전문금융업에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#서민금융과장">
+	<legislation:분장_사항>서민금융정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>관련 규정 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 규정 제정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 제정</legislation:분장_사항>
+	<legislation:분장_사항>유사금융 정책의 감독</legislation:분장_사항>
+	<legislation:분장_사항>유사금융 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>사금융 이용자 보호</legislation:분장_사항>
+	<legislation:분장_사항>대부업정책협의회의 운영</legislation:분장_사항>
+	<legislation:분장_사항>대부업 정책의 감독</legislation:분장_사항>
+	<legislation:분장_사항>대부업 정책의 조정</legislation:분장_사항>
+	<legislation:분장_사항>대부업 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책에 관한 국제협력</legislation:분장_사항>
+	<legislation:분장_사항>신용정보집중기관의 감독</legislation:분장_사항>
+	<legislation:분장_사항>신용정보집중기관의 등록</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업의 감독</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업의 허가</legislation:분장_사항>
+	<legislation:분장_사항>신용정보업의 인가</legislation:분장_사항>
+	<legislation:분장_사항>금융채무 불이행자 정책</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단에 감독</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단에 지도</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금관리재단의 복지사업</legislation:분장_사항>
+	<legislation:분장_사항>휴면보험금의 관리</legislation:분장_사항>
+	<legislation:분장_사항>휴면예금의 관리</legislation:분장_사항>
+	<legislation:분장_사항>서민금융정책의 조정</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융소비자과장">
+	<legislation:분장_사항>금융소비자 보호 정책 기획</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정 제정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 제정</legislation:분장_사항>
+	<legislation:분장_사항>금융 교육</legislation:분장_사항>
+	<legislation:분장_사항>금융소비자 보호에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>금융소비자 분쟁 조정</legislation:분장_사항>
+	<legislation:분장_사항>금융소비자 보호 제도 총괄</legislation:분장_사항>
+	<legislation:분장_사항>금융소비자 보호 제도 기획</legislation:분장_사항>
+	<legislation:분장_사항>금융소비자 보호 정책 총괄</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001000</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#자본시장과장">
+	<legislation:분장_사항>자본시장 선진화에 관한 종합적인 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정의 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정의 제정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 제정</legislation:분장_사항>
+	<legislation:분장_사항>금융투자업 감독</legislation:분장_사항>
+	<legislation:분장_사항>한국금융투자협회 감독</legislation:분장_사항>
+	<legislation:분장_사항>증권금융회사 감독</legislation:분장_사항>
+	<legislation:분장_사항>한국예탁결제원 감독</legislation:분장_사항>
+	<legislation:분장_사항>한국거래소 감독</legislation:분장_사항>
+	<legislation:분장_사항>기업의 분할제도</legislation:분장_사항>
+	<legislation:분장_사항>기업의 합병</legislation:분장_사항>
+	<legislation:분장_사항>기업의 인수</legislation:분장_사항>
+	<legislation:분장_사항>기업의 상장제도</legislation:분장_사항>
+	<legislation:분장_사항>기업의 공개</legislation:분장_사항>
+	<legislation:분장_사항>증권예탁제도 및 결제시스템에 관한 정책 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>유동화증권의 감독</legislation:분장_사항>
+	<legislation:분장_사항>유동화증권의 유통</legislation:분장_사항>
+	<legislation:분장_사항>유동화증권의 발행</legislation:분장_사항>
+	<legislation:분장_사항>자산유동화 제도</legislation:분장_사항>
+	<legislation:분장_사항>파생상품 정책의 감독</legislation:분장_사항>
+	<legislation:분장_사항>파생상품 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>종합금융업의 구조조정 지원</legislation:분장_사항>
+	<legislation:분장_사항>종합금융업의 감독</legislation:분장_사항>
+	<legislation:분장_사항>종합금융업의 인가</legislation:분장_사항>
+	<legislation:분장_사항>투자중개업 구조조정 지원</legislation:분장_사항>
+	<legislation:분장_사항>투자중개업 감독</legislation:분장_사항>
+	<legislation:분장_사항>투자중개업 인가</legislation:분장_사항>
+	<legislation:분장_사항>투자매매업 구조조정 지원</legislation:분장_사항>
+	<legislation:분장_사항>투자매매업 감독</legislation:분장_사항>
+	<legislation:분장_사항>투자매매업 인가</legislation:분장_사항>
+	<legislation:분장_사항>증권의 금융투자업 구조 개선에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>증권의 국제화 정책</legislation:분장_사항>
+	<legislation:분장_사항>증권의 유통 제도 감독</legislation:분장_사항>
+	<legislation:분장_사항>증권의 유통 제도 정책</legislation:분장_사항>
+	<legislation:분장_사항>종합금융업 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>투자중개업 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>투자매매업 정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조의2</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001002</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#자산운용과장">
+	<legislation:분장_사항>집합투자서비스 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정 제정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 제정</legislation:분장_사항>
+	<legislation:분장_사항>신탁업 유관기관의 감독</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 감독</legislation:분장_사항>
+	<legislation:분장_사항>한국금융투자협회 감독</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 관련 회사의 감독</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 관련 회사의 등록</legislation:분장_사항>
+	<legislation:분장_사항>채권평가회사 감독</legislation:분장_사항>
+	<legislation:분장_사항>채권평가회사 등록</legislation:분장_사항>
+	<legislation:분장_사항>퇴직연금에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>연금제도 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>신탁제도에 관한 정책 및 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>투자일임업 정책의 감독</legislation:분장_사항>
+	<legislation:분장_사항>투자일임업 정책의 등록</legislation:분장_사항>
+	<legislation:분장_사항>투자일임업 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>투자자문업 정책의 감독</legislation:분장_사항>
+	<legislation:분장_사항>투자자문업 정책의 등록</legislation:분장_사항>
+	<legislation:분장_사항>투자자문업 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>집합투자상품의 판매에 관한 정책의 감독</legislation:분장_사항>
+	<legislation:분장_사항>집합투자상품의 판매에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 구조조정 지원</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 감독</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 인가</legislation:분장_사항>
+	<legislation:분장_사항>집합투자업 정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조의2</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001002</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공정시장과장">
+	<legislation:분장_사항>주식회사 외부감사제도 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 규정 제정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 개정</legislation:분장_사항>
+	<legislation:분장_사항>관련 금융관계 법령 제정</legislation:분장_사항>
+	<legislation:분장_사항>중요사실의 누락 조사에 조치</legislation:분장_사항>
+	<legislation:분장_사항>중요사실의 누락 조사</legislation:분장_사항>
+	<legislation:분장_사항>허위의 공시자료 조사에 따른 조치</legislation:분장_사항>
+	<legislation:분장_사항>허위의 공시자료 조사</legislation:분장_사항>
+	<legislation:분장_사항>불공정거래 조사에 따른 조치</legislation:분장_사항>
+	<legislation:분장_사항>불공정거래 조사</legislation:분장_사항>
+	<legislation:분장_사항>불공정거래 조정</legislation:분장_사항>
+	<legislation:분장_사항>불공정거래 조사의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>불공정거래 조사의 기획</legislation:분장_사항>
+	<legislation:분장_사항>자본시장 관련 조사업무 제도연구</legislation:분장_사항>
+	<legislation:분장_사항>자본시장 관련 조사업무 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>한국회계기준원의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>외부감사기준의 개정</legislation:분장_사항>
+	<legislation:분장_사항>외부감사기준의 제정</legislation:분장_사항>
+	<legislation:분장_사항>회계기준 개정</legislation:분장_사항>
+	<legislation:분장_사항>회계기준 제정</legislation:분장_사항>
+	<legislation:분장_사항>증권 등의 감독에 관한 사항</legislation:분장_사항>
+	<legislation:분장_사항>증권 등의 공시제도</legislation:분장_사항>
+	<legislation:분장_사항>증권 등의 발행</legislation:분장_사항>
+	<legislation:분장_사항>기업 경영의 투명성 향상에 관한 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>공인회계사제도 정책의 수립</legislation:분장_사항>
+	<legislation:분장_사항>기업회계제도 정책의 수립</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제10조의2</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001002</legislation:JO_NO>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#기획행정실장">
+	<legislation:분장_사항>자금세탁방지제도 정책</legislation:분장_사항>
+	<legislation:분장_사항>공중협박자금 조달금지 관련 금융거래의 허가</legislation:분장_사항>
+	<legislation:분장_사항>공중협박자금 조달금지 관련 금융거래 제한대상자 취소</legislation:분장_사항>
+	<legislation:분장_사항>공중협박자금 조달금지 관련 금융거래 제한대상자 지정</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원 홈페이지 관리</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원 홈페이지 개발</legislation:분장_사항>
+	<legislation:분장_사항>외국금융정보분석기구로부터 수집한 정보의 전산처리</legislation:분장_사항>
+	<legislation:분장_사항>관계행정기관으로부터 제공받은 자료 등의 전산처리</legislation:분장_사항>
+	<legislation:분장_사항>신용정보로부터 제공받은 자료 등의 전산처리</legislation:분장_사항>
+	<legislation:분장_사항>외국환거래자료의 전산처리</legislation:분장_사항>
+	<legislation:분장_사항>금융기관 등이 보고한 정보의 전산처리</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보 분석 시스템 전산처리</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보 분석 시스템 개발</legislation:분장_사항>
+	<legislation:분장_사항>전산시스템 이용</legislation:분장_사항>
+	<legislation:분장_사항>전산시스템 관리</legislation:분장_사항>
+	<legislation:분장_사항>전산시스템 개발</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 보안</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 복무감사</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 서무</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 경리</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 인사</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 국회</legislation:분장_사항>
+	<legislation:분장_사항>금융정보분석원의 예산</legislation:분장_사항>
+	<legislation:분장_사항>금융기관 과태료 징수</legislation:분장_사항>
+	<legislation:분장_사항>금융기관 과태료 부과</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 행정자료의 분석</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 행정자료의 관리</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 행정자료의 유지</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 통계</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 민원처리</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 홈페이지 운영</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지제도 및 그 운영에 관련된 자문위원회 운영</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 백서 발간</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 백서 편찬</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 법규집 발간</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 법규집 편찬</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 등에 관한 법령질의 회신의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>외국의 자금세탁방지제도 운영에 정보 수집</legislation:분장_사항>
+	<legislation:분장_사항>국제기구의 회원국 간 자금세탁방지제도 운영의 평가</legislation:분장_사항>
+	<legislation:분장_사항>국제기구의 회원국 간 자금세탁방지제도</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 관련 국제기구와의 협력</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 관련 국제기구와의 정보교류</legislation:분장_사항>
+	<legislation:분장_사항>외국금융정보분석기구와의 협력</legislation:분장_사항>
+	<legislation:분장_사항>외국금융정보분석기구와의 정보교류</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 관련 국제협력의 조정</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지 관련 국제협력의 총괄</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보의 기록보존</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보의 처리 체계의 개선</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보의 수집</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보 전산시스템의 관리 업무의 조정</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보 전산시스템의 관리 업무의 통할</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보 전산시스템의 개발</legislation:분장_사항>
+	<legislation:분장_사항>특정금융거래정보 보고제도의 운영</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지제도 주요업무계획의 조정</legislation:분장_사항>
+	<legislation:분장_사항>자금세탁방지제도 주요업무계획의 종합</legislation:분장_사항>
+	<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+	<legislation:조문>제12조</legislation:조문>
+	<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+	<legislation:LAW_SID>0012</legislation:LAW_SID>
+	<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+	<legislation:JO_NO>001200</legislation:JO_NO>
+</rdf:Description>
+
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#제도운영과장">
+		<legislation:분장_사항>금융기관 등의 보고책임자 임명</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 홍보계획의 시행</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 홍보계획의 수립</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 교육계획의 시행</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 교육계획의 수립</legislation:분장_사항>
+		<legislation:분장_사항>검사업무 조정</legislation:분장_사항>
+		<legislation:분장_사항>검사업무 협력</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 정책의 시행</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 정책의 수립</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 검사</legislation:분장_사항>
+		<legislation:분장_사항>자금세탁방지 감독</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 업무처리 지원</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 금융거래의 참고유형 제공</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 등에 대한 보고대상</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 업무지침의 제공</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 업무지침의 작성</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 보고제도 개선 의견 수렴</legislation:분장_사항>
+		<legislation:분장_사항>금융기관 보고제도의 운영</legislation:분장_사항>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제13조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+		<legislation:JO_NO>001300</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#심사분석3과장">
+		<legislation:분장_사항>금융기관 등이 임의적으로 보고하는 국내 특정금융거래정보의 심사분석</legislation:분장_사항>
+		<legislation:분장_사항>국내 특정금융거래정보에 대한 심사분석기법 개발</legislation:분장_사항>
+		<legislation:분장_사항>국내 특정금융거래정보에 대한 심사분석기법 연구</legislation:분장_사항>
+		<legislation:분장_사항>국내 금융거래를 통한 자금세탁행위의 참고사례 연구</legislation:분장_사항>
+		<legislation:분장_사항>국내 금융거래를 통한 자금세탁행위의 유형 연구</legislation:분장_사항>
+		<legislation:분장_사항>심사분석3과 소관 심사분석 내용의 관리</legislation:분장_사항>
+		<legislation:분장_사항>심사분석3과 소관 심사분석 내용의 기록</legislation:분장_사항>
+		<legislation:분장_사항>외국금융정보분석기구가 제공하는 국내 금융거래 관련정보의 심사분석</legislation:분장_사항>
+		<legislation:분장_사항>외국금융정보분석기구의 정보제공 요구에 따른 국내 특정금융거래정보의 심사분석</legislation:분장_사항>
+		<legislation:분장_사항>경찰청장의 요구에 따른 특정금융거래정보의 심사분석</legislation:분장_사항>
+		<legislation:분장_사항>검찰총장 요구에 따른 특정금융거래정보의 심사분석</legislation:분장_사항>
+		<legislation:분장_사항>금융위원회 요구에 따른 특정금융거래정보의 심사분석</legislation:분장_사항>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제17조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+		<legislation:JO_NO>001700</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회운영규칙">
+		<legislation:목적>금융위원회 설치에 필요한 사항 정함</legislation:목적>
+		<legislation:목적>긍융위원회 운영에 필요한 사항 정함</legislation:목적>
+		<legislation:법명>금융위원회운영규칙</legislation:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>199804010002</legislation:LAW_ID>
+		<legislation:LAW_SID>0024</legislation:LAW_SID>
+		<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+	</rdf:Description>
+	
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#운용기획팀장">
+		<legislation:분장_사항>공적자금에 관한 정책</legislation:분장_사항>
+		<legislation:분장_사항>공적자금의 효율적 운용을 위하여 공적자금관리위원회가 정하는 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 관련 기획재정부 등 관련 기관과의 업무협의</legislation:분장_사항>
+		<legislation:분장_사항>공적자금관리백서의 발간에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 운용에 관한 국회보고에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>자금지원심사 소위원회 회의운영에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금관리위원회 소위원회 회의운영에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 관련 법제의 협의</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 관련 법제의 운영</legislation:분장_사항>
+		<legislation:분장_사항>공적자금상환기금의 관리</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 지원실적의 정기적 점검에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>한국정책금융공사 공적자금 지원에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>한국자산관리공사 공적자금 지원에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>예금보험공사 공적자금 지원에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>정부 공적자금 지원에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 지원의 원칙에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>기업의 선정원칙에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금의 운용에 관한 기획</legislation:분장_사항>
+		<legislation:분장_사항>공적자금의 운용에 관한 총괄</legislation:분장_사항>
+		<legislation:분장_사항>공적자금의 회수 후 재사용</legislation:분장_사항>
+		<legislation:분장_사항>공적자금의 사용</legislation:분장_사항>
+		<legislation:분장_사항>공적자금에 관한 제도의 기획</legislation:분장_사항>
+		<legislation:분장_사항>공적자금에 관한 제도의 입안</legislation:분장_사항>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제21조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000050000000000</legislation:JJ_NO>
+		<legislation:JO_NO>002100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#회수관리팀장">
+		<legislation:분장_사항>금융기관의 사후관리 원칙</legislation:분장_사항>
+		<legislation:분장_사항>공적자금의 회수에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>한국정책금융공사가 보유하고 있는 자산매각</legislation:분장_사항>
+		<legislation:분장_사항>한국자산관리공사가 보유하고 있는 자산매각</legislation:분장_사항>
+		<legislation:분장_사항>예금보험공사가 보유하고 있는 자산매각</legislation:분장_사항>
+		<legislation:분장_사항>정부가 보유하고 있는 자산매각</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 상환 정책의 기획</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 상환 정책의 입안</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 회수 정책의 기획</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 회수 정책의 입안</legislation:분장_사항>
+		<legislation:분장_사항>매각심사 소위원회 회의운영에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 관련기관에 대한 실지조사에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>공적자금 회수실적의 점검에 관한 사항</legislation:분장_사항>
+		<legislation:분장_사항>사후관리상황의 정기적 점검</legislation:분장_사항>
+		<legislation:분장_사항>금융기관의 사후관리체제</legislation:분장_사항>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제21조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000050000000000</legislation:JJ_NO>
+		<legislation:JO_NO>002100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#정례회의">
+		<legislation:보고사항>금융동향 등에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융감독과 관련된 주요 사항</legislation:보고사항>
+		<legislation:보고사항>외국환업무취급기관의 건전성감독</legislation:보고사항>
+		<legislation:보고사항>기타 금융정책의 건전성감독</legislation:보고사항>
+		<legislation:보고사항>금융위원회 간담회의 요구 사항에 대한 분기별 추진실적에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 회의 요구 사항에 대한 분기별 추진실적에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융감독원의 업무에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직개편에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직의 관리에 대한 주요사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직의 운영에 대한 주요사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직의 업무에 대한 주요사항</legislation:보고사항>
+		<legislation:보고사항>금융감독과 관련한 법령에 대한 사항</legislation:보고사항>
+		<legislation:보고사항>외국환업무취급기관의 건전성 감독</legislation:보고사항>
+		<legislation:보고사항>금융정책의 건전성 감독</legislation:보고사항>
+		<legislation:보고사항>정례회의에 부의가 예정된 안건에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>경제동향 등에 관한 사항</legislation:보고사항>
+		<legislation:법명>금융위원회운영규칙</legislation:법명>
+		<legislation:조문>제6조</legislation:조문>
+		<legislation:LAW_ID>199804010002</legislation:LAW_ID>
+		<legislation:LAW_SID>0024</legislation:LAW_SID>
+		<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000600</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#임시회의">
+		<legislation:보고사항>금융동향 등에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융감독과 관련된 주요 사항</legislation:보고사항>
+		<legislation:보고사항>외국환업무취급기관의 건전성감독</legislation:보고사항>
+		<legislation:보고사항>기타 금융정책의 건전성감독</legislation:보고사항>
+		<legislation:보고사항>금융위원회 간담회의 요구 사항에 대한 분기별 추진실적에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 회의 요구 사항에 대한 분기별 추진실적에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융감독원의 업무에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직개편에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직의 관리에 대한 주요사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직의 운영에 대한 주요사항</legislation:보고사항>
+		<legislation:보고사항>금융위원회 소속조직의 업무에 대한 주요사항</legislation:보고사항>
+		<legislation:보고사항>금융감독과 관련한 법령에 대한 사항</legislation:보고사항>
+		<legislation:보고사항>외국환업무취급기관의 건전성 감독</legislation:보고사항>
+		<legislation:보고사항>금융정책의 건전성 감독</legislation:보고사항>
+		<legislation:보고사항>정례회의에 부의가 예정된 안건에 관한 사항</legislation:보고사항>
+		<legislation:보고사항>경제동향 등에 관한 사항</legislation:보고사항>
+		<legislation:법명>금융위원회운영규칙</legislation:법명>
+		<legislation:조문>제6조</legislation:조문>
+		<legislation:LAW_ID>199804010002</legislation:LAW_ID>
+		<legislation:LAW_SID>0024</legislation:LAW_SID>
+		<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000600</legislation:JO_NO>
+	</rdf:Description>	
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공공기관">
+		<legislation:종류>정부가 납입자본금의 100분의 50 이상을 출자한 기업체</legislation:종류>
+		<legislation:종류>「어음법」 또는 「수표법」에 의하여 지정된 어음교환소</legislation:종류>
+		<legislation:종류>특별법에 의하여 설립된 법인</legislation:종류>
+		<legislation:법명>금융산업의 구조개선에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제5조의6</legislation:조문>
+		<legislation:LAW_ID>199309140001</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000506</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융안전기금">
+		<legislation:차입_시_적을_사항>차입자금의 용도</legislation:차입_시_적을_사항>
+		<legislation:차입_시_적을_사항>차입금 상환의 기한</legislation:차입_시_적을_사항>
+		<legislation:차입_시_적을_사항>차입금 상환의 방법</legislation:차입_시_적을_사항>
+		<legislation:차입_시_적을_사항>이자 지급의 기한</legislation:차입_시_적을_사항>
+		<legislation:차입_시_적을_사항>이자 지급의 방법</legislation:차입_시_적을_사항>
+		<legislation:차입_시_적을_사항>차입 이자율</legislation:차입_시_적을_사항>
+		<legislation:차입_시_적을_사항>차입금액</legislation:차입_시_적을_사항>
+		<legislation:법명>금융산업의 구조개선에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제5조의8</legislation:조문>
+		<legislation:LAW_ID>199309140001</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000508</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#채권_청약서">
+		<legislation:포함사항>정책금융공사의 명칭</legislation:포함사항>
+		<legislation:포함사항>상환되지 아니한 채권 총액</legislation:포함사항>
+		<legislation:포함사항>채권의 최저가액</legislation:포함사항>
+		<legislation:포함사항>채권의 발행가액</legislation:포함사항>
+		<legislation:포함사항>이자 지급의 시기</legislation:포함사항>
+		<legislation:포함사항>이자 지급의 방법</legislation:포함사항>
+		<legislation:포함사항>채권의 상환 기한</legislation:포함사항>
+		<legislation:포함사항>채권의 상환 방법</legislation:포함사항>
+		<legislation:포함사항>채권의 이율</legislation:포함사항>
+		<legislation:포함사항>채권의 금액</legislation:포함사항>
+		<legislation:포함사항>채권의 발행총액</legislation:포함사항>
+		<legislation:법명>금융산업의 구조개선에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제5조의11</legislation:조문>
+		<legislation:LAW_ID>199309140001</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000511</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#채권_원부">
+		<legislation:포함사항>채권의 수</legislation:포함사항>
+		<legislation:포함사항>이자 지급의 시기</legislation:포함사항>
+		<legislation:포함사항>이자 지급의 방법</legislation:포함사항>
+		<legislation:포함사항>채권의 상환 기한</legislation:포함사항>
+		<legislation:포함사항>채권의 상환 방법</legislation:포함사항>
+		<legislation:포함사항>채권의 이율</legislation:포함사항>
+		<legislation:포함사항>채권의 금액</legislation:포함사항>
+		<legislation:포함사항>채권의 발행총액</legislation:포함사항>
+		<legislation:포함사항>채권의 발행일</legislation:포함사항>
+		<legislation:포함사항>채권의 번호</legislation:포함사항>
+		<legislation:법명>금융산업의 구조개선에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제5조의17</legislation:조문>
+		<legislation:LAW_ID>199309140001</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000517</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융실명거래_및_비밀보장에_관한_법률">
+		<legislation:목적>금융거래를 실시하고 그 비밀을 보장</legislation:목적>
+		<legislation:목적>민경제의 건전한 발전</legislation:목적>
+		<legislation:목적>경제정의를 실현</legislation:목적>
+		<legislation:목적>금융거래의 정상화</legislation:목적>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률</legislation:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>199712310002</legislation:LAW_ID>
+		<legislation:LAW_SID>0015</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#자금지원심사_소위원회">
+		<legislation:구성원>민간위원 중에서 호선(互選)하는 3명</legislation:구성원>
+		<legislation:구성원>위원장이 위촉하는 2명</legislation:구성원>
+		<legislation:구성원>사무국의 장</legislation:구성원>
+		<legislation:법명>공적자금관리 특별법 시행령</legislation:법명>
+		<legislation:조문>제5조의4</legislation:조문>
+		<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+		<legislation:LAW_SID>0008</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000504</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#매각심사_소위원회">
+		<legislation:구성원>민간위원 중에서 호선하는 2명</legislation:구성원>
+		<legislation:구성원>위원장이 위촉하는 3명</legislation:구성원>
+		<legislation:구성원>사무국의 장</legislation:구성원>
+		<legislation:법명>공적자금관리 특별법 시행령</legislation:법명>
+		<legislation:조문>제5조의4</legislation:조문>
+		<legislation:LAW_ID>200102140001</legislation:LAW_ID>
+		<legislation:LAW_SID>0008</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000504</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융정보분석원">
+		<legislation:수행_업무>특정금융거래정보의 보고제도 기획</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보 전산관리시스템의 보안관리</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보 전산관리시스템의 구축</legislation:수행_업무>
+		<legislation:수행_업무>방지대책에 대한 연구</legislation:수행_업무>
+		<legislation:수행_업무>방지대책에 대한 조사</legislation:수행_업무>
+		<legislation:수행_업무>자금세탁행위 등의 동향 연구</legislation:수행_업무>
+		<legislation:수행_업무>자금세탁행위 등의 동향 조사</legislation:수행_업무>
+		<legislation:수행_업무>자금세탁행위의 방지를 위한 국내외  정보 교류</legislation:수행_업무>
+		<legislation:수행_업무>자금세탁행위의 방지를 위한 국내외 협력증진</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보의 심사분석 관련 정보의 기록 보존</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보의 수집 관련 정보의 기록 보존</legislation:수행_업무>
+		<legislation:수행_업무>외국금융정보분석기구와의 정보교환</legislation:수행_업무>
+		<legislation:수행_업무>외국금융정보분석기구와의 협조</legislation:수행_업무>
+		<legislation:수행_업무>공중협박자금 조달금지 관련 금융거래의 허가</legislation:수행_업무>
+		<legislation:수행_업무>공중협박자금 조달금지 관련 제한대상자의 취소</legislation:수행_업무>
+		<legislation:수행_업무>공중협박자금 조달금지 관련 제한대상자의 지정</legislation:수행_업무>
+		<legislation:수행_업무>수사기관 등에 대한 특정금융거래정보의 제공</legislation:수행_업무>
+		<legislation:수행_업무>외국환거래자료 등의 자료 제공의 요청</legislation:수행_업무>
+		<legislation:수행_업무>외국환거래자료 등의 분석</legislation:수행_업무>
+		<legislation:수행_업무>외국환거래자료 등의 수집</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보 자료 제공의 요청</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보 분석</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보 수집</legislation:수행_업무>
+		<legislation:수행_업무>보고대상 금융거래의 참고유형 훈련의 지원</legislation:수행_업무>
+		<legislation:수행_업무>보고대상 금융거래의 참고유형 교육</legislation:수행_업무>
+		<legislation:수행_업무>보고대상 금융거래의 참고유형 제공</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보의 보고제도 검사</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보의 보고제도 감독</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보의 보고제도 지침의 운영</legislation:수행_업무>
+		<legislation:수행_업무>특정금융거래정보의 보고제도 지침의 수립</legislation:수행_업무>
+		<legislation:법명>금융위원회와 그 소속기관 직제</legislation:법명>
+		<legislation:조문>제15조</legislation:조문>
+		<legislation:LAW_ID>200902290001</legislation:LAW_ID>
+		<legislation:LAW_SID>0011</legislation:LAW_SID>
+		<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+		<legislation:JO_NO>001500</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#기금운용심의회_위원">
+		<legislation:임기>2년</legislation:임기>
+		<legislation:법명>공적자금상환기금법 시행령</legislation:법명>
+		<legislation:조문>제8조</legislation:조문>
+		<legislation:LAW_ID>200212300001</legislation:LAW_ID>
+		<legislation:LAW_SID>0005</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000800</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공사채_등록법">
+		<legislation:목적>발행을 간편하게</legislation:목적>
+		<legislation:목적>자본시장의발전에 이바지함</legislation:목적>
+		<legislation:목적>공사채권자의 권리 보전</legislation:목적>
+		<legislation:법명>공사채 등록법</legislation:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>197001010001</legislation:LAW_ID>
+		<legislation:LAW_SID>0007</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공사채">
+		<legislation:정의>지방자치단체가 발행한 채권</legislation:정의>
+		<legislation:정의>양도성예금증서</legislation:정의>
+		<legislation:정의>외국법인이 발행한 채권으로서 금융위원회가 지정한 것</legislation:정의>
+		<legislation:정의>외국의 공공단체가 발행한 채권으로서 금융위원회가 지정한 것</legislation:정의>
+		<legislation:정의>외국정부가 발행한 채권으로서 금융위원회가 지정한 것</legislation:정의>
+		<legislation:정의>사채권(社債券)</legislation:정의>
+		<legislation:정의>특별법에 따라 법인이 발행한 채권</legislation:정의>
+		<legislation:법명>공사채 등록법</legislation:법명>
+		<legislation:조문>제2조</legislation:조문>
+		<legislation:LAW_ID>197001010001</legislation:LAW_ID>
+		<legislation:LAW_SID>0007</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000200</legislation:JO_NO>
+		
+		<legislation:등록기관>중소기업은행</legislation:등록기관>
+		<legislation:등록기관>한국산업은행</legislation:등록기관>
+		<legislation:등록기관>은행</legislation:등록기관>
+		<legislation:등록기관>한국예탁결제원</legislation:등록기관>
+		<legislation2:법명>공사채 등록법 시행령</legislation2:법명>
+		<legislation:조문>제1조의2</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000102</legislation:JO_NO>
+		
+		<legislation:등록의_청구자>공사채의 이해관계자</legislation:등록의_청구자>
+		<legislation:등록의_청구자>공사채의의 질권자</legislation:등록의_청구자>
+		<legislation:등록의_청구자>공사채의 채권자</legislation:등록의_청구자>
+		<legislation3:법명>공사채 등록법 시행령</legislation3:법명>
+		<legislation:조문>제5조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020010000000</legislation:JJ_NO>
+		<legislation:JO_NO>000500</legislation:JO_NO>
+		
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공사채_등록법_시행령">
+		<legislation:목적>「공사채 등록법」시행에 필요한 사항을 규정함</legislation:목적>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공사채_등록신청서">
+		<legislation:포함사항>상호</legislation:포함사항>
+		<legislation:첨부서류>주주 성명 및 소유주식 수</legislation:첨부서류>
+		<legislation:첨부서류>현재의 대차대조표</legislation:첨부서류>
+		<legislation:첨부서류>신청일</legislation:첨부서류>
+		<legislation:첨부서류>정관</legislation:첨부서류>
+		<legislation:포함사항>금융위원회가 정하여 고시하는 사항</legislation:포함사항>
+		<legislation:포함사항>임원에 관한 사항</legislation:포함사항>
+		<legislation:포함사항>자본에 관한 사항</legislation:포함사항>
+		<legislation:포함사항>본점의 소재지</legislation:포함사항>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제1조의2</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000102</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공사채_등록증">
+		<legislation:포함사항>등록번호</legislation:포함사항>
+		<legislation:포함사항>등록내용</legislation:포함사항>
+		<legislation:포함사항>대표자의 성명</legislation:포함사항>
+		<legislation:포함사항>회사의 소재지</legislation:포함사항>
+		<legislation:포함사항>회사의 상호</legislation:포함사항>
+		<legislation:포함사항>등록일</legislation:포함사항>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제1조의2</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000102</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#공사채_등록청구서">
+		<legislation:포함사항>공사애의 명칭</legislation:포함사항>
+		<legislation:첨부서류>대리인 권한 증명 서류</legislation:첨부서류>
+		<legislation:첨부서류>승낙을 증명하는 서류</legislation:첨부서류>
+		<legislation:첨부서류>동의를 증명하는 서류</legislation:첨부서류>
+		<legislation:첨부서류>허가를 증명하는 서류</legislation:첨부서류>
+		<legislation:첨부서류>등록증명서</legislation:첨부서류>
+		<legislation:포함사항>등록권리자 지분</legislation:포함사항>
+		<legislation:포함사항>권리의 소멸 사항</legislation:포함사항>
+		<legislation:포함사항>청구연월일</legislation:포함사항>
+		<legislation:포함사항>등록기관명</legislation:포함사항>
+		<legislation:포함사항>등록의 목적</legislation:포함사항>
+		<legislation:포함사항>등록일</legislation:포함사항>
+		<legislation:포함사항>등록원인</legislation:포함사항>
+		<legislation:포함사항>대리인의 주소</legislation:포함사항>
+		<legislation:포함사항>대리인의 성명</legislation:포함사항>
+		<legislation:포함사항>청구자의 주소</legislation:포함사항>
+		<legislation:포함사항>청구자의 성명</legislation:포함사항>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제10조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020010000000</legislation:JJ_NO>
+		<legislation:JO_NO>001000</legislation:JO_NO>
+		
+		<legislation:등록거부사항>수수료를 납부하지 아니한 경우</legislation:등록거부사항>
+		<legislation:등록거부사항>서류를 첨부하지 아니한 경우</legislation:등록거부사항>
+		<legislation:등록거부사항>서류를 제출하지 아니한 경우</legislation:등록거부사항>
+		<legislation:등록거부사항>청구서에 적힌 사항이 제출한 서류와 불일치</legislation:등록거부사항>
+		<legislation:등록거부사항>등록의무자의 표시가 공사채 등록부와 불일치</legislation:등록거부사항>
+		<legislation:등록거부사항>권리의 표시가 공사채 등록부와 불일치</legislation:등록거부사항>
+		<legislation:등록거부사항>등록채권이 공사채 등록부와 불일치</legislation:등록거부사항>
+		<legislation:등록거부사항>등록사항이 아닌 경우</legislation:등록거부사항>
+		<legislation:등록거부사항>등록기관이 취급할 사항이 아닌 경우</legislation:등록거부사항>
+		<legislation2:법명>공사채 등록법 시행령</legislation2:법명>
+		<legislation:조문>제13조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020010000000</legislation:JJ_NO>
+		<legislation:JO_NO>001300</legislation:JO_NO>
+		
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융실명거래_및_비밀보장에_관한_법률_시행령">
+		<legislation:목적>시행에 관하여 필요한 사항을 규정함</legislation:목적>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+		
+		<legislation:목적>시행에 관하여 필요한 사항을 규정함</legislation:목적>
+		<legislation2:법명>금융실명거래및비밀보장에관한법률시행규칙</legislation2:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>199712310004</legislation:LAW_ID>
+		<legislation:LAW_SID>0002</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융실명거래_및_비밀보장에_관한_법률_제2조_제1호_너목">
+		<legislation:대통령이_정하는_기관>채권등록기관</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>법인으로서 총리령이 정하는 자</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>사실상 금융거래를 하는 개인</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>한국주택금융공사</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>한국거래소</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>신용보증재단</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>전문조합 중앙회</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>전문조합</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>지역조합</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>신용보증기금</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>중소기업창업투자조합</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>중소기업창업투자회사</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>한국정책금융공사</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>기술신용보증기금</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>신기술사업투자조합</legislation:대통령이_정하는_기관>
+		<legislation:대통령이_정하는_기관>여신전문금융회사</legislation:대통령이_정하는_기관>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제2조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000200</legislation:JO_NO>
+	</rdf:Description>
+
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#등록공사채_담보사실_등록청구서">
+		<legislation:포함사항>액면금액</legislation:포함사항>
+		<legislation:포함사항>담보권자의 표시</legislation:포함사항>
+		<legislation:포함사항>공탁하여야 할 법령의 조항</legislation:포함사항>
+		<legislation:포함사항>채권 번호</legislation:포함사항>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제26조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020030000000</legislation:JJ_NO>
+		<legislation:JO_NO>002600</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#신탁등록_청구서">
+		<legislation:포함사항>위탁자</legislation:포함사항>
+		<legislation:포함사항>신탁 조항</legislation:포함사항>
+		<legislation:포함사항>신탁종료의 사유</legislation:포함사항>
+		<legislation:포함사항>신탁재산의 신탁 목적 달성을 위하여 필요한 방법</legislation:포함사항>
+		<legislation:포함사항>신탁재산의 개발 방법</legislation:포함사항>
+		<legislation:포함사항>신탁재산의 운용 방법</legislation:포함사항>
+		<legislation:포함사항>신탁재산의 처분 방법</legislation:포함사항>
+		<legislation:포함사항>신탁재산의 관리 방법</legislation:포함사항>
+		<legislation:포함사항>신탁의 목적</legislation:포함사항>
+		<legislation:포함사항>유한책임신탁인 경우에는 그 사실</legislation:포함사항>
+		<legislation:포함사항>공익신탁인 경우에는 그 사실</legislation:포함사항>
+		<legislation:포함사항>수익증권발행신탁인 경우에는 그 사실</legislation:포함사항>
+		<legislation:포함사항>수익자연속신탁인 경우에는 그 사실</legislation:포함사항>
+		<legislation:포함사항>유언대용신탁인 경우에는 그 사실</legislation:포함사항>
+		<legislation:포함사항>수탁자가 타인에게 신탁 설정 사실</legislation:포함사항>
+		<legislation:포함사항>특저의 목정을 위한 신탁 사실</legislation:포함사항>
+		<legislation:포함사항>신탁관리법인 주소</legislation:포함사항>
+		<legislation:포함사항>신탁관리법인명</legislation:포함사항>
+		<legislation:포함사항>신탁관리인의 주소</legislation:포함사항>
+		<legislation:포함사항>신탁관리인의 성명</legislation:포함사항>
+		<legislation:포함사항>수익권 소멸 조건</legislation:포함사항>
+		<legislation:포함사항>수익권 발생 조건</legislation:포함사항>
+		<legislation:포함사항>수익자 변경 방법</legislation:포함사항>
+		<legislation:포함사항>수익자 지정 방법</legislation:포함사항>
+		<legislation:포함사항>수익자를 지정하거나 변경할 수 있는 권한법인 소재지</legislation:포함사항>
+		<legislation:포함사항>수익자를 지정하거나 변경할 수 있는 권한법인명</legislation:포함사항>
+		<legislation:포함사항>수익자를 지정하거나 변경할 수 있는 권한자 주소</legislation:포함사항>
+		<legislation:포함사항>수익자를 지정하거나 변경할 수 있는 권한자 성명</legislation:포함사항>
+		<legislation:포함사항>수익자의 주소</legislation:포함사항>
+		<legislation:포함사항>수익자의 성명</legislation:포함사항>
+		<legislation:포함사항>수탁자</legislation:포함사항>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제33조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020040000000</legislation:JJ_NO>
+		<legislation:JO_NO>003300</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#개인">
+		<legislation:실지명의>주민등록표에 기재된 성명</legislation:실지명의>
+		<legislation:실지명의>주민등록표에 기재된 주민등록번호</legislation:실지명의>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제3조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000300</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#법인">
+		<legislation:실지명의>사업자등록증에 기재된 법인명</legislation:실지명의>
+		<legislation:실지명의>납세번호</legislation:실지명의>
+		<legislation:실지명의>사업자등록증에 기재된 등록번호</legislation:실지명의>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제3조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000300</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#법인이_아닌_단체">
+		<legislation:실지명의>단체를 대표하는 자의 실지명의</legislation:실지명의>
+		<legislation:실지명의>납세번호</legislation:실지명의>
+		<legislation:실지명의>고유번호</legislation:실지명의>
+		<legislation:실지명의>단체명</legislation:실지명의>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제3조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000300</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#외국인">
+		<legislation:실지명의>등록외국인기록표에 기재된 성명</legislation:실지명의>
+		<legislation:실지명의>신분증에 기재된 번호</legislation:실지명의>
+		<legislation:실지명의>신분증에 기재된 성명</legislation:실지명의>
+		<legislation:실지명의>여권에 기재된 번호</legislation:실지명의>
+		<legislation:실지명의>여권에 기재된 성명</legislation:실지명의>
+		<legislation:실지명의>등록외국인기록표에 기재된 등록번호</legislation:실지명의>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제3조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000300</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#실명확인">
+		<legislation:생략사항>실명이 확인된 계좌에 의한 계속거래</legislation:생략사항>
+		<legislation:생략사항>외국통화로 표시된 채권의 매도</legislation:생략사항>
+		<legislation:생략사항>외국통화로 표시된 예금의 수입</legislation:생략사항>
+		<legislation:생략사항>외국통화의 매입</legislation:생략사항>
+		<legislation:생략사항>100만원 이하에 상당하는 외국통화의 매각</legislation:생략사항>
+		<legislation:생략사항>100만원 이하에 상당하는 외국통화의 매입</legislation:생략사항>
+		<legislation:생략사항>100만원 이하의 원화 무통장 입금</legislation:생략사항>
+		<legislation:생략사항>100만원 이하의 원화 송금</legislation:생략사항>
+		<legislation:생략사항>각종 공과금 등의 수납</legislation:생략사항>
+		<legislation:법명>금융실명거래 및 비밀보장에 관한 법률 시행령</legislation:법명>
+		<legislation:조문>제4조</legislation:조문>
+		<legislation:LAW_ID>199712310003</legislation:LAW_ID>
+		<legislation:LAW_SID>0018</legislation:LAW_SID>
+		<legislation:JJ_NO>000000000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000400</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#금융위원회와_그_소속기관_직제_시행규칙">
+		<legislation:목적>「금융위원회와 그 소속기관 직제」에서 위임된 사항과 그 시행에 필요한 사항을 규정함</legislation:목적>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제1조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000010000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000100</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#정책홍보팀장">
+		<legislation:대변인_보좌사항>주요 정책에 관한 대국민 홍보계획의 수립</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>위원회 업무의 대외 브리핑 지원에 관한 사항</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>위원회 업무의 대외 브리핑 운영에 관한 사항</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>위원회 업무의 대외 정책발표</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>언론사와 관련된 업무의 협조</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>언론사와 관련된 업무의 지원</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>언론보도 내용의 정정보도 등에 관한 사항</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>언론보도 내용의 확인 등에 관한 사항</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>금융감독에 관한 업무와 관련된 각종 상황의 관리</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>금융감독에 관한 업무와 관련된 각종 정보의 관리</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>외국환업무취급기관의 건전성감독</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>금융정책의 건전성감독</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>주요 정책에 관한 대국민 홍보계획의 지원</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>주요 정책에 관한 대국민 홍보계획의 협의</legislation:대변인_보좌사항>
+		<legislation:대변인_보좌사항>주요 정책에 관한 대국민 홍보계획의 조정</legislation:대변인_보좌사항>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제5조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000500</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#기획재정담당관">
+		<legislation:기획조정관_보좌사항>각종 정책의 종합</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>금융감독원의 업무에 대한 위원회의 지도·감독에 관한 사항</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>금융관계 법령 및 규정의 제정·개정에 관한 사항</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>제1호부터 제5호까지와 관련된 사항에 대한 조사·연구</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>정책조정과제 등의 추진상황 점검</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>정책조정과제 등의 전파</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>정책조정과제 등의 발굴</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>정책의제화 대상과제 등의 추진상황 점검</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>정책의제화 대상과제 등의 전파</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>정책의제화 대상과제 등의 발굴</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>국회 관계 업무의 총괄</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>국회 관계 업무의 조정</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>금융감독원의 예산에 관한 사항</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>예산 집행의 조정</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>예산 편성</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>주요업무계획의 조정</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>주요업무계획의 종합</legislation:기획조정관_보좌사항>
+		<legislation:기획조정관_보좌사항>각종 정책의 조정</legislation:기획조정관_보좌사항>
+		<legislation:법명>금융위원회와 그 소속기관 직제 시행규칙</legislation:법명>
+		<legislation:조문>제7조</legislation:조문>
+		<legislation:LAW_ID>200803030001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000020000000000</legislation:JJ_NO>
+		<legislation:JO_NO>000700</legislation:JO_NO>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/legislation#채권발행청구서">
+		<legislation:포함사항>공사채의 명칭</legislation:포함사항>
+		<legislation:포함사항>청구연월일</legislation:포함사항>
+		<legislation:포함사항>채권발행자의 명칭</legislation:포함사항>
+		<legislation:포함사항>대리인의 주소</legislation:포함사항>
+		<legislation:포함사항>대리인의 성명</legislation:포함사항>
+		<legislation:포함사항>청구자의 주소</legislation:포함사항>
+		<legislation:포함사항>청구자의 성명</legislation:포함사항>
+		<legislation:포함사항>공사채의 채권 번호</legislation:포함사항>
+		<legislation:포함사항>공사채의 금액</legislation:포함사항>
+		<legislation:법명>공사채 등록법 시행령</legislation:법명>
+		<legislation:조문>제47조</legislation:조문>
+		<legislation:LAW_ID>197103040001</legislation:LAW_ID>
+		<legislation:LAW_SID>0012</legislation:LAW_SID>
+		<legislation:JJ_NO>000030000000000</legislation:JJ_NO>
+		<legislation:JO_NO>004700</legislation:JO_NO>
+	</rdf:Description>
+	
+</rdf:RDF>
+

@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/complete/ontologies/2014/0/lawschema2014"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     ontologyIRI="http://www.semanticweb.org/complete/ontologies/2014/0/lawschema2014">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Declaration>
+        <Class IRI="#가사"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#간행판결"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#결정"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#고등법원"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#구분"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#기타"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#논문"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#다국어"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#단행본"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#대법원"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#문헌"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#미간행판결"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#미디어"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#민사"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#법령"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#법령명"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#법률"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#법원종류"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#사건종류"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#사법행정간행물"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#선고구분"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#세무"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#시행규칙"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#시행령"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#연혁"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#일반행정"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#자료유형"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#장"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#전원합의체"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#조"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#체계"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#출간언어"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#특허"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#판결"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#판례"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#판례등급"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#편"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#평석"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#하급심"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#한국어"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#항"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#형사"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#가사"/>
+        <Class IRI="#사건종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#간행판결"/>
+        <Class IRI="#판례등급"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#결정"/>
+        <Class IRI="#선고구분"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#고등법원"/>
+        <Class IRI="#법원종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#구분"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#기타"/>
+        <Class IRI="#출간언어"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#논문"/>
+        <Class IRI="#자료유형"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#다국어"/>
+        <Class IRI="#법령명"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#단행본"/>
+        <Class IRI="#자료유형"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#대법원"/>
+        <Class IRI="#법원종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#문헌"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#미간행판결"/>
+        <Class IRI="#판례등급"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#미디어"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#민사"/>
+        <Class IRI="#사건종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#법령명"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#법률"/>
+        <Class IRI="#구분"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#법원종류"/>
+        <Class IRI="#판례"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#사건종류"/>
+        <Class IRI="#판례"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#사법행정간행물"/>
+        <Class IRI="#자료유형"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#선고구분"/>
+        <Class IRI="#판례"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#세무"/>
+        <Class IRI="#사건종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#시행규칙"/>
+        <Class IRI="#구분"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#시행령"/>
+        <Class IRI="#구분"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#연혁"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#일반행정"/>
+        <Class IRI="#사건종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#자료유형"/>
+        <Class IRI="#문헌"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#장"/>
+        <Class IRI="#편"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#전원합의체"/>
+        <Class IRI="#판례등급"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#조"/>
+        <Class IRI="#장"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#체계"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#출간언어"/>
+        <Class IRI="#문헌"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#특허"/>
+        <Class IRI="#사건종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#판결"/>
+        <Class IRI="#선고구분"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#판례"/>
+        <Class IRI="#법령"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#판례등급"/>
+        <Class IRI="#판례"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#편"/>
+        <Class IRI="#체계"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#평석"/>
+        <Class IRI="#자료유형"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#하급심"/>
+        <Class IRI="#법원종류"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#한국어"/>
+        <Class IRI="#출간언어"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#항"/>
+        <Class IRI="#조"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#형사"/>
+        <Class IRI="#사건종류"/>
+    </SubClassOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

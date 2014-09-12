@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]> 
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:election="http://imc.ssu.ac.kr/2012/08/gensol/election#">
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/election#선거관리위원회">
+	<election:종류 rdf:resource="http://imc.ssu.ac.kr/law/election#중앙선거관리위원회"></election:종류>
+	<election:종류 rdf:resource="http://imc.ssu.ac.kr/law/election#특별시·광역시·도선거관리위원회"></election:종류>
+	<election:종류 rdf:resource="http://imc.ssu.ac.kr/law/election#구·시·군선거관리위원회"></election:종류>
+	<election:종류 rdf:resource="http://imc.ssu.ac.kr/law/election#읍·면·동선거관리위원회"></election:종류>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/election#중앙선거관리위원회">
+	<election:구성인원 rdf:datatype="&xsd;integer">9</election:구성인원>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/election#특별시·광역시·도선거관리위원회">
+	<election:구성인원 rdf:datatype="&xsd;integer">9</election:구성인원>
+	<election:설치>특별시·광역시·도</election:설치>
+	<election:관할구역>각각_당해_행정구역</election:관할구역>
+	<election:명칭>당해행정_구역명을_붙여_표시</election:명칭>
+	<election:소재지>관할하는_행정구역_안</election:소재지>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/election#구·시·군선거관리위원회">
+	<election:구성인원 rdf:datatype="&xsd;integer">9</election:구성인원>
+	<election:설치>구·시·군</election:설치>
+	<election:관할구역>각각_당해_행정구역</election:관할구역>
+	<election:명칭>당해_행정구역명을_붙여_표시</election:명칭>
+	<election:소재지>관할하는_행정구역_안</election:소재지>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/election#읍·면·동선거관리위원회">
+	<election:구성인원 rdf:datatype="&xsd;integer">7</election:구성인원>
+	<election:설치>읍·면·동</election:설치>
+	<election:관할구역>각각_당해_행정구역</election:관할구역>
+	<election:명칭>당해_행정구역명을_붙여_표시</election:명칭>
+	<election:소재지>당해_읍·면·동</election:소재지>
+</rdf:Description>
+
+</rdf:RDF>
