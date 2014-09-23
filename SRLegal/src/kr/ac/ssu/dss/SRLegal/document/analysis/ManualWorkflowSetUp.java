@@ -100,7 +100,6 @@ public class ManualWorkflowSetUp {
 			
 			/* Analysis using the work flow */
 			//String document = "한나눔 형태소 분석기는 KLDP에서 제공하는 공개 소프트웨어 프로젝트 사이트에 등록되어 있다.";
-			//String document = "아버지는 가방에 들어가신다.";
 			String documentPath = "doc/law/law1.txt";
 			File document = new File(documentPath);
 	

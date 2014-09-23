@@ -10,8 +10,6 @@ public class SRLegalMain {
 	public static void main(String[] args) {
 		
 		SRLegalParserGateway parserGateway = new SRLegalParserGateway();
-		parserGateway.processingPaser();
-		
+		parserGateway.processingPaser();		
 	}
-
 }

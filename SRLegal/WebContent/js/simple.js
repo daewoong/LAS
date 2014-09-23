@@ -32,6 +32,7 @@ $(document).ready(function(){
   $("#submitform").submit(function(){
 	  alert("submit"); 
 	  $("p").append(" <b>Appended text</b>.");
+	  $("p").append(" <b>Appended text2</b>.");
   });
   
   
