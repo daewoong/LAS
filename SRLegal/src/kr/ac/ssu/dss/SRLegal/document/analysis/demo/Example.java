@@ -14,22 +14,18 @@ import org.snu.ids.ha.util.Timer;
 public class Example
 {
 
-	public static void main(String[] args)
-	{
-		maTest();
-		keTest();
-	}
-
-
+	
 	public static void maTest()
 	{
 		String string = "저는 대학생이구요. 소프트웨어 관련학과 입니다. DB는 수업을 한번 들은 적이 있으며, 수학은 대학에서 통계학, 선형대수학, 이산수학, 대학수학 등을 배웠지만... 자주 사용을 안하다보니 모두 까먹은 상태입니다.";
+		System.out.println(string);
 		try {
 			MorphemeAnalyzer ma = new MorphemeAnalyzer();
 			ma.createLogger(null);
 			Timer timer = new Timer();
 			timer.start();
 			List<MExpression> ret = ma.analyze(string);
+			System.out.println(string);
 			timer.stop();
 			timer.printMsg("Time");
 
@@ -64,5 +60,12 @@ public class Example
 			System.out.println(kwrd.getString() + "\t" + kwrd.getCnt());
 		}
 	}
-
+	
+	public static void main(String[] args)
+	{
+		System.out.println("start");
+		//maTest();
+		keTest();
+	}
+	
 }

@@ -18,6 +18,9 @@ public class DocHierarchyExtractor {
 										"[가-하]\\." // 가. to 하.
 										};
 	
+	private static String[] rulePatterns = {"목적","정의","위원회","계획",
+											"신고","벌칙","과태료","시행일"};
+	
 	private static List<String> priorities = new ArrayList<String>();
 	private static Tree tree = new Tree(); 
 				
@@ -79,8 +82,10 @@ public class DocHierarchyExtractor {
 				
 				int level = getPriorityIndex(aPattern) + 2;
 				
-				System.out.println("head: "+ head);
+				System.out.println("head: "+ head);			
+				rulePatternCheck(head);				
 				System.out.println("body: "+ body);
+				
 				//System.out.println(lineText +" : "+ lineNumber + " : " + level);
 				addToTree(lineText, lineNumber, level);
 				
@@ -89,13 +94,26 @@ public class DocHierarchyExtractor {
 		}
 	}
 	
+	private static void rulePatternCheck(String head){
+		
+		for(String rPattern : rulePatterns){
+			boolean mached = head.matches(".*" + rPattern + ".*");
+			if(mached){
+				System.out.println("rulePattern: " + rPattern + "(" + mached + ")");
+				break;
+			}
+		}
+			
+	}
+	
+	
 	private static void addToPriorities(String newPattern) {
 		if (!priorities.contains(newPattern))
 			priorities.add(newPattern);
 	}
 	
 	private static void printHierarchy() {
-		System.out.println(tree.toString());
+		//System.out.println(tree.toString());
 	}
 	
 	private static void addToTree(String lineText, int lineNumber, int level) {

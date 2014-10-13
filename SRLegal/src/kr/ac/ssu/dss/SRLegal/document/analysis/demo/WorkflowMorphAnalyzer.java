@@ -45,10 +45,10 @@ public class WorkflowMorphAnalyzer {
 			workflow.activateWorkflow(true);
 			
 			/* Analysis using the work flow */
-			String document = "1.cable 꽃의 종류\n" 
-				+	"프로젝트 전체 회의.\n"
-				+ "회의 일정은 다음과 같습니다.\n";
-			
+			//String document = "1.cable 꽃의 종류\n" 
+			//	+	"프로젝트 전체 회의.\n"
+			//	+ "회의 일정은 다음과 같습니다.\n";
+			String document = "선희는 현우를 일으켜 세워 옷의 먼지를 털어 주었다.";
 			workflow.analyze(document);
 			System.out.println(workflow.getResultOfDocument());
 			

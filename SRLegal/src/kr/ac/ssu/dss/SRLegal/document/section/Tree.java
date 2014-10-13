@@ -52,7 +52,7 @@ class Tree {
 				repetition--;
 			}
 			
-			strBuf.append(child.toString() + "\n");
+			strBuf.append("HA"+child.toString() + "\n");
 			
 			traverseChildren(child, strBuf);
 		}

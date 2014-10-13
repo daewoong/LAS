@@ -44,15 +44,16 @@ public class WorkflowHmmPosTagger {
 			workflow.activateWorkflow(true);
 			
 			/* Analysis using the work flow */
-			String document = "프로젝트 전체 회의.\n"
-				+ "회의 일정은 다음과 같습니다.\n";
+//			String document = "프로젝트 전체 회의.\n"
+//				+ "회의 일정은 다음과 같습니다.\n";
+			String document = "이 법은 공포한 날부터 시행한다.";
 			
 			workflow.analyze(document);
 			System.out.println(workflow.getResultOfDocument());
 			
 			/* Once a work flow is activated, it can be used repeatedly. */
-			document = "日時: 2010년 7월 30일 오후 1시\n"
-				+ "場所: Coex Conference Room\n";
+//			document = "日時: 2010년 7월 30일 오후 1시\n"
+//				+ "場所: Coex Conference Room\n";
 			
 			workflow.analyze(document);
 			System.out.println(workflow.getResultOfDocument());
