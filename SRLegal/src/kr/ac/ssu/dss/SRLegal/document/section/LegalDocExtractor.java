@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.regex.Pattern;
 
 
-public class DocHierarchyExtractor {
+public class LegalDocExtractor {
 	private static String[] patterns = {
 										"제\\d+장",
 										"제\\d+조.+",
@@ -78,13 +78,13 @@ public class DocHierarchyExtractor {
 			if (matched) {//System.out.println(head);
 				addToPriorities(aPattern);
 					
-				System.out.println("pattern: "+aPattern);
+				//System.out.println("pattern: "+aPattern);
 				
 				int level = getPriorityIndex(aPattern) + 2;
 				
-				System.out.println("head: "+ head);			
-				rulePatternCheck(head);				
-				System.out.println("body: "+ body);
+				//System.out.println("head: "+ head);			
+				//rulePatternCheck(head, body);				
+				//System.out.println("body: "+ body);
 				
 				//System.out.println(lineText +" : "+ lineNumber + " : " + level);
 				addToTree(lineText, lineNumber, level);
@@ -94,12 +94,13 @@ public class DocHierarchyExtractor {
 		}
 	}
 	
-	private static void rulePatternCheck(String head){
+	private static void rulePatternCheck(String head, String body){
 		
 		for(String rPattern : rulePatterns){
 			boolean mached = head.matches(".*" + rPattern + ".*");
 			if(mached){
 				System.out.println("rulePattern: " + rPattern + "(" + mached + ")");
+												
 				break;
 			}
 		}
@@ -113,13 +114,14 @@ public class DocHierarchyExtractor {
 	}
 	
 	private static void printHierarchy() {
+		tree.traversingChildren();
 		//System.out.println(tree.toString());
 	}
 	
 	private static void addToTree(String lineText, int lineNumber, int level) {
 		Node node = new Node(lineText, lineNumber, level);		
 		tree.addNode(node);
-	
+		
 	}
 	
 	// An index begins at 0.

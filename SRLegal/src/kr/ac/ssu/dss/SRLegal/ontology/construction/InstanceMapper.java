@@ -19,7 +19,7 @@ public class InstanceMapper {
 
 	
 	String IRIString = "http://dss.ssu.ac.kr/complete/ontologies/2014/8/Korea_Decree/";
-	String FilePath = "doc/ontology/owl/Korea_Decree.owl";
+	public String FilePath = "doc/ontology/owl/Korea_Decree.owl";
 	
 	OWLOntologyManager manager;
 	IRI ontologyIRI;
@@ -55,7 +55,7 @@ public class InstanceMapper {
 	    this.ontologyIRI = IRI.create(this.IRIString + LawName);  	 	    
 	}
 	
-	private void printClassList(){
+	public void printClassList(){
 		
 		int classNum = 0;
 		
@@ -94,7 +94,7 @@ public class InstanceMapper {
         
 	}
 	    
-	private void printOntologyRDFXML(){
+	public void printOntologyRDFXML(){
 	    try {
 			this.manager.saveOntology(this.ontology, new StreamDocumentTarget(
 					System.out));

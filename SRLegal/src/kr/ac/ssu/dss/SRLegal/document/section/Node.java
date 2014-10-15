@@ -10,6 +10,8 @@ class Node {
 	private List<Node> children = new ArrayList<Node>();
 	
 	private int level;
+	private String head;
+	private String body;
 	
 	private int beginIndexOfHead;
 	private int endIndexOfHead;
@@ -23,18 +25,18 @@ class Node {
 	Node(String lineText, int lineNumber, int level) {
 		this(level);
 		this.lineText = lineText;
-		this.lineNumber = lineNumber;
-
+		this.lineNumber = lineNumber;	
+		
 		initIndices(lineText);
 	}
 	
 	private void initIndices(String lineText) {
-		String head = LineParser.getHead(lineText);
+		this.head = LineParser.getHead(lineText);
 		
 		beginIndexOfHead = lineText.indexOf(head);
 		endIndexOfHead = beginIndexOfHead + head.length() - 1;
 		
-		String body = LineParser.getBody(lineText, head);
+		this.body = LineParser.getBody(lineText, head);
 		
 		beginIndexOfBody = lineText.indexOf(body, endIndexOfHead + 1);
 		endIndexOfBody = beginIndexOfBody + body.length() - 1;
@@ -48,10 +50,25 @@ class Node {
 		return lineText;
 	}
 	
+	String getHead(){
+		return this.head;
+	}
+	int getbeginIndexOfBody(){
+		return beginIndexOfBody;
+	}
+	int getendIndexOfBody(){
+		return endIndexOfBody;
+	}
+	String getBody(){
+		return this.body;
+	}
+	
 	int getLineNumber() {
 		return lineNumber;
 	}
-	
+	List getChildren(){
+		return children;
+	}
 	boolean addChild(Node child) {
 		return children.add(child);
 	}
