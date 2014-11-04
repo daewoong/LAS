@@ -14,8 +14,9 @@ public class LegalDocExtractor {
 										"제\\d+장",
 										"제\\d+조.+",
 										"[①-⑮]", 
-										"\\d+\\.",   // 1. or 10. 
-										"[가-하]\\." // 가. to 하.
+										"\\d+\\.",   // 1. 
+										"[가-하]\\.", // 가. to 하.
+										"\\d+\\)"// 
 										};
 	
 	private static String[] rulePatterns = {"목적","정의","위원회","계획",
@@ -82,7 +83,7 @@ public class LegalDocExtractor {
 				
 				int level = getPriorityIndex(aPattern) + 2;
 				
-				//System.out.println("head: "+ head);			
+				System.out.println("head: "+ head);			
 				//rulePatternCheck(head, body);				
 				//System.out.println("body: "+ body);
 				
@@ -153,5 +154,6 @@ public class LegalDocExtractor {
 		LineNumberReader reader = openFile("doc/Law/law1.txt");
 		extractHierarchy(reader);
 		printHierarchy();
+		
 	}
 }

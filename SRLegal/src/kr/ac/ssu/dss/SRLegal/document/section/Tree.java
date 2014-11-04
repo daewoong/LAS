@@ -100,6 +100,7 @@ class Tree {
 					if(levelOfChild == childlenLevel){					
 						//System.out.println(child.getBody());	
 						LegalRulePattern.rulePatternApplication(child.getBody());
+						
 					}
 				}
 			}		
