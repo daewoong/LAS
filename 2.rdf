@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+		 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+		 xmlns:owl="http://www.w3.org/2002/07/owl#"
+		 xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+		 xmlns:foaf="http://xmlns.com/foaf/0.1/"
+		 xmlns:klegal="http://www.legal.kr/2016/">
+
+<skos:Concept rdf:about="klegal:AConcept">
+	<skos:prefLabel xml:lang="ko">면세점</skos:prefLabel>
+	<skos:alterLabel xml:lang="en">duty-free_shop</skos:alterLabel>
+	<skos:narrower rdf:resource="klegal:BConcept"/>
+</skos:Concept>
+
+<skos:Concept rdf:about="klegal:BConcept">
+	<skos:prefLabel xml:lang="ko">정의</skos:prefLabel>
+	<skos:alterLabel xml:lang="en">Definition</skos:alterLabel>
+	<skos:related rdf:resource="klegal:CConcept"/>
+</skos:Concept>
+
+</rdf:RDF>

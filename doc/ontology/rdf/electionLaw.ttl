@@ -1,0 +1,26 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix election: <http://imc.ssu.ac.kr/2012/08/gensol/election#>.
+
+<http://imc.ssu.ac.kr/law/election#commission> election:종류 [election:name "중앙선거관리위원회" ; 
+                                                            election:구성인원 9 ],
+                                                           [election:name "특별시·광역시·도선거관리위원회" ; 
+                                                            election:구성인원 9  ; 
+                                                            election:설치 "특별시·광역시·도" ; 
+                                                            election:관할구역 "각각 당해 행정구역" ; 
+                                                            election:명칭 "당해 행정구역명을 붙여 표시" ; 
+                                                            election:소재지 "관할하는 행정구역 안"],
+                                                           [election:name "구·시·군선거관리위원회" ; 
+                                                            election:구성인원 9  ; 
+                                                            election:설치 "구·시·군" ; 
+                                                            election:관할구역 "각각 당해 행정구역" ; 
+                                                            election:명칭 "당해 행정구역명을 붙여 표시" ; 
+                                                            election:소재지 "관할하는 행정구역 안"],
+                                                           [election:name "읍·면·동선거관리위원회" ; 
+                                                            election:구성인원 7  ; 
+                                                            election:설치 "읍·면·동" ; 
+                                                            election:관할구역 "각각 당해 행정구역" ; 
+                                                            election:명칭 "당해 행정구역명을 붙여 표시" ; 
+                                                            election:소재지 "당해 읍·면·동"],
+                                                           [].

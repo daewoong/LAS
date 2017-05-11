@@ -1,0 +1,725 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY dcterms "http://purl.org/dc/terms#" >
+    <!ENTITY foaf "http://xmlns.com/foaf/0.1#" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY document "http://dss.ssu.ac.kr/document#" >
+    <!ENTITY dc "http://purl.org/dc/elements/1.1#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY skos "http://www.w3.org/2004/02/skos/core#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://dss.ssu.ac.kr/document#"
+     xml:base="http://dss.ssu.ac.kr/document"
+     xmlns:dc="http://purl.org/dc/elements/1.1#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:document="http://dss.ssu.ac.kr/document#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:dcterms="http://purl.org/dc/terms#">
+    <owl:Ontology rdf:about="http://dss.ssu.ac.kr/document">
+        <owl:versionIRI rdf:resource="http://dss.ssu.ac.kr/document/1.0"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#belongTo -->
+
+    <owl:ObjectProperty rdf:about="&document;belongTo">
+        <owl:inverseOf rdf:resource="&document;hasContents"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#hasAuthor -->
+
+    <owl:ObjectProperty rdf:about="&document;hasAuthor">
+        <rdfs:label xml:lang="ko">hasAuthor</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Document"/>
+        <rdfs:range rdf:resource="&document;Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#hasContents -->
+
+    <owl:ObjectProperty rdf:about="&document;hasContents">
+        <rdfs:label xml:lang="ko">hasContents</rdfs:label>
+        <rdfs:range rdf:resource="&document;Contents"/>
+        <rdfs:domain rdf:resource="&document;Document"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#hasDocument -->
+
+    <owl:ObjectProperty rdf:about="&document;hasDocument">
+        <rdfs:label>isAuthorOf</rdfs:label>
+        <owl:inverseOf rdf:resource="&document;hasAuthor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#hasMetaData -->
+
+    <owl:ObjectProperty rdf:about="&document;hasMetaData">
+        <rdfs:label xml:lang="ko">hasMetaData</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Document"/>
+        <rdfs:range rdf:resource="&document;Meta"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#relatedResource -->
+
+    <owl:ObjectProperty rdf:about="&document;relatedResource">
+        <rdfs:label xml:lang="ko">relatedResource</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Document"/>
+        <rdfs:range rdf:resource="&document;WebResource"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#sameAs -->
+
+    <owl:ObjectProperty rdf:about="&owl;sameAs">
+        <rdf:type rdf:resource="&owl;SymmetricProperty"/>
+        <rdfs:label xml:lang="ko">sameAs</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Concept"/>
+        <rdfs:range rdf:resource="&document;WebResource"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1#Organization -->
+
+    <owl:ObjectProperty rdf:about="&foaf;Organization">
+        <rdfs:label xml:lang="ko">Organization</rdfs:label>
+        <rdfs:range rdf:resource="&document;Organization"/>
+        <rdfs:domain rdf:resource="&document;Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1#format -->
+
+    <owl:DatatypeProperty rdf:about="&dc;format">
+        <rdfs:label xml:lang="ko">format</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Meta"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1#language -->
+
+    <owl:DatatypeProperty rdf:about="&dc;language">
+        <rdfs:label xml:lang="ko">language</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Meta"/>
+        <rdfs:range rdf:resource="&xsd;language"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1#title -->
+
+    <owl:DatatypeProperty rdf:about="&dc;title">
+        <rdfs:label xml:lang="ko">title</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Meta"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1#type -->
+
+    <owl:DatatypeProperty rdf:about="&dc;type">
+        <rdfs:label xml:lang="ko">type</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Document"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1#mbox -->
+
+    <owl:DatatypeProperty rdf:about="&foaf;mbox">
+        <rdfs:label xml:lang="ko">mbox</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Person"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1#name -->
+
+    <owl:DatatypeProperty rdf:about="&foaf;name">
+        <rdfs:label xml:lang="ko">name</rdfs:label>
+        <rdfs:domain rdf:resource="&document;Person"/>
+        <rdfs:range rdf:resource="&xsd;Name"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Body -->
+
+    <owl:Class rdf:about="&document;Body">
+        <rdfs:label xml:lang="ko">Body</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Section"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Concept -->
+
+    <owl:Class rdf:about="&document;Concept">
+        <rdfs:subClassOf rdf:resource="&document;Contents"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Contents -->
+
+    <owl:Class rdf:about="&document;Contents">
+        <rdfs:label xml:lang="en">Contents
+</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Corporation -->
+
+    <owl:Class rdf:about="&document;Corporation">
+        <rdfs:label xml:lang="ko">Corporation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Organization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Definition -->
+
+    <owl:Class rdf:about="&document;Definition">
+        <rdfs:label xml:lang="en">Definition</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Contents"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#DocType -->
+
+    <owl:Class rdf:about="&document;DocType">
+        <rdfs:label xml:lang="ko">DocType</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Document -->
+
+    <owl:Class rdf:about="&document;Document">
+        <rdfs:label xml:lang="ko">Document</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Head -->
+
+    <owl:Class rdf:about="&document;Head">
+        <rdfs:label xml:lang="ko">Head</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Section"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Level -->
+
+    <owl:Class rdf:about="&document;Level">
+        <rdfs:label xml:lang="ko">Level</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Section"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Meta -->
+
+    <owl:Class rdf:about="&document;Meta">
+        <rdfs:label xml:lang="ko">Meta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Organization -->
+
+    <owl:Class rdf:about="&document;Organization">
+        <rdfs:label xml:lang="ko">Organization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Person -->
+
+    <owl:Class rdf:about="&document;Person">
+        <rdfs:label xml:lang="ko">Person</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#ResearchFacility -->
+
+    <owl:Class rdf:about="&document;ResearchFacility">
+        <rdfs:label xml:lang="ko">ResearchFacility</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Organization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Section -->
+
+    <owl:Class rdf:about="&document;Section">
+        <rdfs:label xml:lang="ko">Section</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Contents"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#University -->
+
+    <owl:Class rdf:about="&document;University">
+        <rdfs:label xml:lang="ko">University</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&document;Organization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#WebResource -->
+
+    <owl:Class rdf:about="&document;WebResource">
+        <rdfs:label xml:lang="ko">WebResource</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#CProgramming -->
+
+    <owl:NamedIndividual rdf:about="&document;CProgramming">
+        <rdf:type rdf:resource="&document;Document"/>
+        <rdfs:label xml:lang="ko">CProgramming</rdfs:label>
+        <dc:language>korean</dc:language>
+        <dc:format>doc</dc:format>
+        <dc:title>CProgramming</dc:title>
+        <hasContents rdf:resource="&document;Mapper"/>
+        <hasAuthor rdf:resource="&document;Messi"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Choongang_University -->
+
+    <owl:NamedIndividual rdf:about="&document;Choongang_University">
+        <rdf:type rdf:resource="&document;University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#DaeWoong -->
+
+    <owl:NamedIndividual rdf:about="&document;DaeWoong">
+        <rdf:type rdf:resource="&document;Person"/>
+        <rdfs:label xml:lang="ko">DaeWoong</rdfs:label>
+        <foaf:name rdf:datatype="&xsd;Name">daewoong</foaf:name>
+        <foaf:mbox rdf:datatype="&xsd;string">doubletaken@naver.com</foaf:mbox>
+        <foaf:Organization rdf:resource="&document;Soongsil_University"/>
+    </owl:NamedIndividual>
+    <owl:Axiom>
+        <rdfs:label xml:lang="en">DaeWoong
+</rdfs:label>
+        <owl:annotatedTarget xml:lang="ko">DaeWoong</owl:annotatedTarget>
+        <owl:annotatedSource rdf:resource="&document;DaeWoong"/>
+        <owl:annotatedProperty rdf:resource="&rdfs;label"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Drogba -->
+
+    <owl:NamedIndividual rdf:about="&document;Drogba">
+        <rdf:type rdf:resource="&document;Person"/>
+        <foaf:Organization rdf:resource="&document;ERTI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#ERTI -->
+
+    <owl:NamedIndividual rdf:about="&document;ERTI">
+        <rdf:type rdf:resource="&document;ResearchFacility"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Gerrard -->
+
+    <owl:NamedIndividual rdf:about="&document;Gerrard">
+        <rdf:type rdf:resource="&document;Person"/>
+        <foaf:Organization rdf:resource="&document;ITRC"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Google -->
+
+    <owl:NamedIndividual rdf:about="&document;Google">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Hadoop -->
+
+    <owl:NamedIndividual rdf:about="&document;Hadoop">
+        <rdf:type rdf:resource="&document;Document"/>
+        <dc:format>pdf</dc:format>
+        <dc:title>Hadoop</dc:title>
+        <dc:language>english</dc:language>
+        <hasAuthor rdf:resource="&document;DaeWoong"/>
+        <hasContents rdf:resource="&document;Mapper"/>
+        <hasContents rdf:resource="&document;Mapreduce"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Hanyang_University -->
+
+    <owl:NamedIndividual rdf:about="&document;Hanyang_University">
+        <rdf:type rdf:resource="&document;University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#IBM -->
+
+    <owl:NamedIndividual rdf:about="&document;IBM">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#ITRC -->
+
+    <owl:NamedIndividual rdf:about="&document;ITRC">
+        <rdf:type rdf:resource="&document;ResearchFacility"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Jiwoong -->
+
+    <owl:NamedIndividual rdf:about="&document;Jiwoong">
+        <rdf:type rdf:resource="&document;Person"/>
+        <foaf:Organization rdf:resource="&document;Korea_University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#KISTI -->
+
+    <owl:NamedIndividual rdf:about="&document;KISTI">
+        <rdf:type rdf:resource="&document;ResearchFacility"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#KT -->
+
+    <owl:NamedIndividual rdf:about="&document;KT">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Korea_University -->
+
+    <owl:NamedIndividual rdf:about="&document;Korea_University">
+        <rdf:type rdf:resource="&document;University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#LG -->
+
+    <owl:NamedIndividual rdf:about="&document;LG">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#MS -->
+
+    <owl:NamedIndividual rdf:about="&document;MS">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Manchester -->
+
+    <owl:NamedIndividual rdf:about="&document;Manchester">
+        <rdf:type rdf:resource="&document;ResearchFacility"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Mapper -->
+
+    <owl:NamedIndividual rdf:about="&document;Mapper">
+        <rdf:type rdf:resource="&document;Concept"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Mapreduce -->
+
+    <owl:NamedIndividual rdf:about="&document;Mapreduce">
+        <rdf:type rdf:resource="&document;Concept"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Merelogy -->
+
+    <owl:NamedIndividual rdf:about="&document;Merelogy">
+        <rdf:type rdf:resource="&document;Document"/>
+        <dc:language>english</dc:language>
+        <dc:title>Merelogy</dc:title>
+        <hasAuthor rdf:resource="&document;Jiwoong"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Messi -->
+
+    <owl:NamedIndividual rdf:about="&document;Messi">
+        <rdf:type rdf:resource="&document;Person"/>
+        <foaf:name>messi</foaf:name>
+        <foaf:Organization rdf:resource="&document;LG"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#SK -->
+
+    <owl:NamedIndividual rdf:about="&document;SK">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Samsung -->
+
+    <owl:NamedIndividual rdf:about="&document;Samsung">
+        <rdf:type rdf:resource="&document;Corporation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#SemanticWeb -->
+
+    <owl:NamedIndividual rdf:about="&document;SemanticWeb">
+        <rdf:type rdf:resource="&document;Concept"/>
+        <rdfs:label xml:lang="ko">SemanticWeb</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#SemanticWebPrimer -->
+
+    <owl:NamedIndividual rdf:about="&document;SemanticWebPrimer">
+        <rdf:type rdf:resource="&document;Document"/>
+        <dc:format>doc</dc:format>
+        <dc:language>english</dc:language>
+        <hasContents rdf:resource="&document;SemanticWeb"/>
+        <hasAuthor rdf:resource="&document;Steaven"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Seoul_University -->
+
+    <owl:NamedIndividual rdf:about="&document;Seoul_University">
+        <rdf:type rdf:resource="&document;University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Set -->
+
+    <owl:NamedIndividual rdf:about="&document;Set">
+        <rdf:type rdf:resource="&document;Document"/>
+        <dc:language>english</dc:language>
+        <hasAuthor rdf:resource="&document;Drogba"/>
+        <hasContents rdf:resource="&document;XML"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Soongsil_University -->
+
+    <owl:NamedIndividual rdf:about="&document;Soongsil_University">
+        <rdf:type rdf:resource="&document;University"/>
+        <rdfs:label xml:lang="ko">Soongsil_University</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Steaven -->
+
+    <owl:NamedIndividual rdf:about="&document;Steaven">
+        <rdf:type rdf:resource="&document;Person"/>
+        <foaf:Organization rdf:resource="&document;Hanyang_University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#XML -->
+
+    <owl:NamedIndividual rdf:about="&document;XML">
+        <rdf:type rdf:resource="&document;Concept"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#Yunsei_University -->
+
+    <owl:NamedIndividual rdf:about="&document;Yunsei_University">
+        <rdf:type rdf:resource="&document;University"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#www.dbpedia.com/hadoop -->
+
+    <owl:NamedIndividual rdf:about="&document;www.dbpedia.com/hadoop">
+        <rdf:type rdf:resource="&document;WebResource"/>
+        <owl:sameAs rdf:resource="&document;Mapreduce"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#www.dbpedia.com/mapper -->
+
+    <owl:NamedIndividual rdf:about="&document;www.dbpedia.com/mapper">
+        <rdf:type rdf:resource="&document;WebResource"/>
+        <owl:sameAs rdf:resource="&document;Mapper"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#www.dbpedia.com/mapreduce -->
+
+    <owl:NamedIndividual rdf:about="&document;www.dbpedia.com/mapreduce">
+        <rdf:type rdf:resource="&document;WebResource"/>
+        <owl:sameAs rdf:resource="&document;Mapreduce"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#www.dbpedia.com/mereology -->
+
+    <owl:NamedIndividual rdf:about="&document;www.dbpedia.com/mereology">
+        <rdf:type rdf:resource="&document;WebResource"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#www.dbpedia.com/programmingdefinition -->
+
+    <owl:NamedIndividual rdf:about="&document;www.dbpedia.com/programmingdefinition">
+        <rdf:type rdf:resource="&document;WebResource"/>
+        <owl:sameAs rdf:resource="&document;XML"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://dss.ssu.ac.kr/document#www.dbpedia.com/semanticweb -->
+
+    <owl:NamedIndividual rdf:about="&document;www.dbpedia.com/semanticweb">
+        <rdf:type rdf:resource="&document;WebResource"/>
+        <owl:sameAs rdf:resource="&document;SemanticWeb"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="&xsd;OWLDatatypeImpl_234f330c_168b_4199_a52c_da3de99398cf">
+        <rdfs:label xml:lang="ko">Name</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&xsd;OWLDatatypeImpl_0cf862ac_45a7_431d_9eca_e09bdc9e825c">
+        <rdfs:label xml:lang="ko">language</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="&xsd;OWLDatatypeImpl_d1d449c3_72d2_4d4c_a83f_5e5b7696342b">
+        <rdfs:label xml:lang="ko">string</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
