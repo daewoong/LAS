@@ -1,0 +1,99 @@
+
+/*
+Design by Dae Woong Jo
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+	color: #000000;
+}
+
+hr{
+	margin: 0;
+	padding: 0;
+}
+
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #221D1D;
+}
+
+h1 {
+	font-size: 3.0em;
+}
+
+h2 {
+	font-size: 2.2em;
+}
+
+h3 {
+	font-size: 1.3em;
+}
+
+p, ul, ol {
+	margin-top: 0;
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	text-decoration: none;
+	color: #091478;
+}
+
+a:hover {
+}
+
+/* header */
+
+#header {
+	width: 940px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+/* top */
+
+#top {
+
+}
+
+/* middle */
+
+#middle {
+
+}
+
+#leftResults {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #221D1D;
+	background-color:skygreen;
+	
+	width: 1000px;
+	height: 500px;
+}
+
+#rightResults {
+	margin: 0;
+	padding: 0;
+
+	
+	width: 1000px;
+	height: 500px;
+}
+
+/* canvas */
+
+#canvasResults {
+	
+}

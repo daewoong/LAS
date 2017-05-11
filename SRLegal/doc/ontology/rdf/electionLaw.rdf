@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]> 
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:election="http://imc.ssu.ac.kr/2012/08/gensol/election#">
+
+<rdf:Description rdf:about="http://imc.ssu.ac.kr/law/election#commission">
+	<election:종류 rdf:nodeID="A0"></election:종류>
+	<election:종류 rdf:nodeID="A1"></election:종류>	
+	<election:종류 rdf:nodeID="A2"></election:종류>	
+	<election:종류 rdf:nodeID="A3"></election:종류>	
+	<election:종류 rdf:nodeID="A4"></election:종류>	
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="A0">
+	<election:name>중앙선거관리위원회</election:name>
+	<election:구성인원 rdf:datatype="&xsd;integer">9</election:구성인원>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="A1">
+	<election:name>특별시·광역시·도선거관리위원회</election:name>
+	<election:구성인원 rdf:datatype="&xsd;integer">9</election:구성인원>
+	<election:설치>특별시·광역시·도</election:설치>
+	<election:관할구역>각각 당해 행정구역</election:관할구역>
+	<election:명칭>당해 행정구역명을 붙여 표시</election:명칭>
+	<election:소재지>관할하는 행정구역 안</election:소재지>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="A2">
+	<election:name>구·시·군선거관리위원회</election:name>
+	<election:구성인원 rdf:datatype="&xsd;integer">9</election:구성인원>
+	<election:설치>구·시·군</election:설치>
+	<election:관할구역>각각 당해 행정구역</election:관할구역>
+	<election:명칭>당해 행정구역명을 붙여 표시</election:명칭>
+	<election:소재지>관할하는 행정구역 안</election:소재지>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="A3">
+	<election:name>읍·면·동선거관리위원회</election:name>
+	<election:구성인원 rdf:datatype="&xsd;integer">7</election:구성인원>
+	<election:설치>읍·면·동</election:설치>
+	<election:관할구역>각각 당해 행정구역</election:관할구역>
+	<election:명칭>당해 행정구역명을 붙여 표시</election:명칭>
+	<election:소재지>당해 읍·면·동</election:소재지>
+</rdf:Description>
+
+</rdf:RDF>

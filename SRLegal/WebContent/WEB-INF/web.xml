@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>SNav</display-name>
+	<servlet>
+		<description>
+		</description>
+		<display-name>SNavServletTest</display-name>
+		<servlet-name>SNavServletTest</servlet-name>
+		<servlet-class>ac.kr.ssu.snav.servlet.SNavServletTest</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>ServletPost</display-name>
+		<servlet-name>ServletPost</servlet-name>
+		<servlet-class>ac.kr.ssu.snav.servlet.ServletPost</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>SNavAgent</display-name>
+		<servlet-name>SNavAgent</servlet-name>
+		<servlet-class>ac.kr.ssu.snav.servlet.SNavAgent</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SNavServletTest</servlet-name>
+		<url-pattern>/Servlet/SNavServletTest</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ServletPost</servlet-name>
+		<url-pattern>/ServletPost</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>SNavAgent</servlet-name>
+		<url-pattern>/SNavAgent</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>
